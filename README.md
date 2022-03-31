@@ -8,4 +8,5 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=javascript) | [풀이](./Level%201/K번째수/solution.js) | [메모](./Level%201/K번째수/memo.md) |
-| 01 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=javascript) | [풀이](./Level%201/완주하지%20못한%20선수/solution.js) | [메모](./Level%201/완주하지%20못한%20선수/memo.md) |
+| 02 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=javascript) | [풀이](./Level%201/완주하지%20못한%20선수/solution.js) | [메모](./Level%201/완주하지%20못한%20선수/memo.md) |
+| 03 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=javascript) | [풀이](./Level%201/평균%20구하기/solution.js) | [메모](./Level%201/평균%20구하기/memo.md) |
