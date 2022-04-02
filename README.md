@@ -14,3 +14,4 @@
 | 02 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=javascript) | [풀이](./Level%201/완주하지%20못한%20선수/solution.js) | [메모](./Level%201/완주하지%20못한%20선수/memo.md) |
 | 03 | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=javascript) | [풀이](./Level%201/평균%20구하기/solution.js) | [메모](./Level%201/평균%20구하기/memo.md) |
 | 04 | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript) | [풀이](./Level%201/직사각형%20별찍기/solution.js) | [메모](./Level%201/직사각형%20별찍기/memo.md) |
+| 05 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937?language=javascript) | [풀이](./Level%201/짝수와%20홀수/solution.js) |  |
