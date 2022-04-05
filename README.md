@@ -18,3 +18,4 @@
 | 06 | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript) | [풀이](./Level%201/직사각형%20별찍기/solution.js) | [메모](./Level%201/직사각형%20별찍기/memo.md) |
 | 07 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954?language=javascript) | [풀이](./Level%201/x만큼%20간격이%20있는%20n개의%20숫자/solution.js) |  |
 | 08 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051?language=javascript) | [풀이](./Level%201/없는%20숫자%20더하기/solution.js) | [메모](./Level%201/없는%20숫자%20더하기/memo.md) |
+| 09 | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128?language=javascript) | [풀이](./Level%201/내적/solution.js) | [메모](./Level%201/내적/memo.md) |
