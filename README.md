@@ -22,3 +22,4 @@
 | 10 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948?language=javascript) | [풀이](./Level%201/핸드폰%20번호%20가리기/solution.js) | [메모](./Level%201/핸드폰%20번호%20가리기/memo.md) |
 | 11 | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935?language=javascript) | [풀이](./Level%201/제일%20작은%20수%20제거하기/solution.js) | [메모](./Level%201/제일%20작은%20수%20제거하기/memo.md) |
 | 12 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501?language=javascript) | [풀이](./Level%201/음양%20더하기/solution.js) |  |
+| 13 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=javascript) | [풀이](./Level%201/행렬의%20덧셈/solution.js) |  |
