@@ -25,3 +25,4 @@
 | 13 | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950?language=javascript) | [풀이](./Level%201/행렬의%20덧셈/solution.js) |  |
 | 14 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947?language=javascript) | [풀이](./Level%201/하샤드%20수/solution.js) | [메모](./Level%201/하샤드%20수/memo.md) |
 | 15 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933?language=javascript) | [풀이](./Level%201/정수%20내림차순으로%20배치하기/solution.js) |  |
+| 16 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript) | [풀이](./Level%201/콜라츠%20추측/solution.js) |  |
