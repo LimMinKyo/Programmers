@@ -28,3 +28,4 @@
 | 16 | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943?language=javascript) | [풀이](./Level%201/콜라츠%20추측/solution.js) |  |
 | 17 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=javascript) | [풀이](./Level%201/자릿수%20더하기/solution.js) |  |
 | 18 | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932?language=javascript) | [풀이](./Level%201/자연수%20뒤집어%20배열로%20만들기/solution.js) |  |
+| 19 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=javascript) | [풀이](./Level%201/약수의%20합/solution.js) |  |
