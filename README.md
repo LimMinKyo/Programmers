@@ -29,3 +29,4 @@
 | 17 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=javascript) | [풀이](./Level%201/자릿수%20더하기/solution.js) |  |
 | 18 | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932?language=javascript) | [풀이](./Level%201/자연수%20뒤집어%20배열로%20만들기/solution.js) |  |
 | 19 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928?language=javascript) | [풀이](./Level%201/약수의%20합/solution.js) |  |
+| 20 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=javascript) | [풀이](./Level%201/문자열%20내%20p와%20y의%20개수/solution.js) |  |
