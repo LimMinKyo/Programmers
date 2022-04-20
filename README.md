@@ -32,3 +32,4 @@
 | 20 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916?language=javascript) | [풀이](./Level%201/문자열%20내%20p와%20y의%20개수/solution.js) |  |
 | 21 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389?language=javascript) | [풀이](./Level%201/나머지가%201이%20되는%20수%20찾기/solution.js) |  |
 | 22 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=javascript) | [풀이](./Level%201/수박수박수박수박수박수%3F/solution.js) |  |
+| 23 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=javascript) | [풀이](./Level%201/서울에서%20김서방%20찾기/solution.js) |  |
