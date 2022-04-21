@@ -33,3 +33,4 @@
 | 21 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389?language=javascript) | [풀이](./Level%201/나머지가%201이%20되는%20수%20찾기/solution.js) |  |
 | 22 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922?language=javascript) | [풀이](./Level%201/수박수박수박수박수박수%3F/solution.js) |  |
 | 23 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=javascript) | [풀이](./Level%201/서울에서%20김서방%20찾기/solution.js) |  |
+| 24 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=javascript) | [풀이](./Level%201/나누어%20떨어지는%20숫자%20배열/solution.js) |  |
