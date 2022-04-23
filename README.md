@@ -35,3 +35,4 @@
 | 23 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=javascript) | [풀이](./Level%201/서울에서%20김서방%20찾기/solution.js) |  |
 | 24 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910?language=javascript) | [풀이](./Level%201/나누어%20떨어지는%20숫자%20배열/solution.js) |  |
 | 25 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912?language=javascript) | [풀이](./Level%201/두%20정수%20사이의%20합/solution.js) |  |
+| 26 | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884?language=javascript) | [풀이](./Level%201/약수의%20개수와%20덧셈/solution.js) | [메모](./Level%201/약수의%20개수와%20덧셈/memo.md) |
