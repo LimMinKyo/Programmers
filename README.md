@@ -44,3 +44,4 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939?language=javascript) | [풀이](./Level%202/최댓값과%20최솟값/solution.js) |  |
+| 02 | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951?language=javascript) | [풀이](./Level%202/JadenCase%20문자열%20만들기/solution.js) |  |
