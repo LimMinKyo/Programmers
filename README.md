@@ -48,3 +48,4 @@
 | 03 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909?language=javascript) | [풀이](./Level%202/올바른%20괄호/solution.js) |  |
 | 04 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=javascript) | [풀이](./Level%202/이진%20변환%20반복하기/solution.js) |  |
 | 05 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911?language=javascript) | [풀이](./Level%202/다음%20큰%20숫자/solution.js) |  |
+| 06 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973?language=javascript) | [풀이](./Level%202/짝지어%20제거하기/solution.js) |  |
