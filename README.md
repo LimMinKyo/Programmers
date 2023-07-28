@@ -49,3 +49,4 @@
 | 04 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=javascript) | [풀이](./Level%202/이진%20변환%20반복하기/solution.js) |  |
 | 05 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911?language=javascript) | [풀이](./Level%202/다음%20큰%20숫자/solution.js) |  |
 | 06 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973?language=javascript) | [풀이](./Level%202/짝지어%20제거하기/solution.js) |  |
+| 07 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941?language=javascript) | [풀이](./Level%202/최솟값%20만들기/solution.js) |  |
