@@ -51,3 +51,4 @@
 | 06 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973?language=javascript) | [풀이](./Level%202/짝지어%20제거하기/solution.js) |  |
 | 07 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941?language=javascript) | [풀이](./Level%202/최솟값%20만들기/solution.js) |  |
 | 08 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924?language=javascript) | [풀이](./Level%202/숫자의%20표현/solution.js) |  |
+| 09 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945?language=javascript) | [풀이](./Level%202/피보나치%20수/solution.js) |  |
