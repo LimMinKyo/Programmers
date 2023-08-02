@@ -39,6 +39,7 @@
 | 26 | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884?language=javascript) | [풀이](./Level%201/약수의%20개수와%20덧셈/solution.js) | [메모](./Level%201/약수의%20개수와%20덧셈/memo.md) |
 | 27 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903?language=javascript) | [풀이](./Level%201/가운데%20글자%20가져오기/solution.js) |  |
 | 28 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=javascript) | [풀이](./Level%201/문자열%20내림차순으로%20배치하기/solution.js) |  |
+| 29 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=javascript) | [풀이](./Level%201/정수%20제곱근%20판별/solution.js) |  |
 
 ## Level 2
 | no | 문제 | 풀이 | 메모 |
