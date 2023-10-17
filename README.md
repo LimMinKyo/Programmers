@@ -56,3 +56,4 @@
 | 08 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924?language=javascript) | [풀이](./Level%202/숫자의%20표현/solution.js) |  |
 | 09 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945?language=javascript) | [풀이](./Level%202/피보나치%20수/solution.js) |  |
 | 10 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981?language=javascript) | [풀이](./Level%202/영어%20끝말잇기/solution.js) |  |
+| 11 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=javascript) | [풀이](./Level%202/카펫/solution.js) |  |
