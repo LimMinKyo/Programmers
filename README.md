@@ -57,3 +57,4 @@
 | 09 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945?language=javascript) | [풀이](./Level%202/피보나치%20수/solution.js) |  |
 | 10 | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981?language=javascript) | [풀이](./Level%202/영어%20끝말잇기/solution.js) |  |
 | 11 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=javascript) | [풀이](./Level%202/카펫/solution.js) |  |
+| 12 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980?language=javascript) | [풀이](./Level%202/점프와%20순간%20이동/solution.js) | [메모](https://jsikim1.tistory.com/272) |
