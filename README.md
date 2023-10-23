@@ -10,6 +10,7 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
+| 02 | [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804?language=javascript) | [풀이](./Level%200/두%20수의%20곱/solution.js) |  |
 
 ## Level 1
 | no | 문제 | 풀이 | 메모 |
