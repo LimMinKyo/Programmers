@@ -1,12 +1,15 @@
 # Programmers
 
-## 목표
-주 언어인 자바스크립트의 실력 향상과 알고리즘 코딩테스트를 대비하기 위해 프로그래머스를 이용하여 공부하고자 함
-
 ## 목차(Table of Contents)
 
+- [Level 0](#level-0)
 - [Level 1](#level-1)
 - [Level 2](#level-2)
+
+## Level 0
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
 
 ## Level 1
 | no | 문제 | 풀이 | 메모 |
