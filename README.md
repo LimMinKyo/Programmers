@@ -66,3 +66,4 @@
 | 12 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980?language=javascript) | [풀이](./Level%202/점프와%20순간%20이동/solution.js) | [메모](https://jsikim1.tistory.com/272) |
 | 13 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885?language=javascript) | [풀이](./Level%202/구명보트/solution.js) | [메모](https://velog.io/@diddnjs02/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8) |
 | 14 | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985?language=javascript) | [풀이](./Level%202/예상%20대진표/solution.js) | [메모](https://jsikim1.tistory.com/304) |
+| 15 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953?language=javascript) | [풀이](./Level%202/N개의%20최소공배수/solution.js) |  |
