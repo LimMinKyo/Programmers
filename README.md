@@ -47,6 +47,7 @@
 | 29 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=javascript) | [풀이](./Level%201/정수%20제곱근%20판별/solution.js) |  |
 | 30 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=javascript) | [풀이](./Level%201/문자열%20다루기%20기본/solution.js) |  |
 | 31 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=javascript) | [풀이](./Level%201/부족한%20금액%20계산하기/solution.js) |  |
+| 32 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=javascript) | [풀이](./Level%201/최대공약수와%20최소공배수/solution.js) |  |
 
 ## Level 2
 | no | 문제 | 풀이 | 메모 |
