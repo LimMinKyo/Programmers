@@ -9,10 +9,11 @@
 ## Level 0
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
-| 01 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
-| 02 | [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804?language=javascript) | [풀이](./Level%200/두%20수의%20곱/solution.js) |  |
-| 03 | [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=javascript) | [풀이](./Level%200/두%20수의%20차/solution.js) |  |
+| 01 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=javascript) | [풀이](./Level%200/두%20수의%20합/solution.js) |  |
+| 02 | [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803?language=javascript) | [풀이](./Level%200/두%20수의%20차/solution.js) |  |
+| 03 | [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804?language=javascript) | [풀이](./Level%200/두%20수의%20곱/solution.js) |  |
 | 04 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=javascript) | [풀이](./Level%200/몫%20구하기/solution.js) |  |
+| 05 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
 
 ## Level 1
 | no | 문제 | 풀이 | 메모 |
