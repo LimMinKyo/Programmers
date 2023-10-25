@@ -71,3 +71,4 @@
 | 14 | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985?language=javascript) | [풀이](./Level%202/예상%20대진표/solution.js) | [메모](https://jsikim1.tistory.com/304) |
 | 15 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953?language=javascript) | [풀이](./Level%202/N개의%20최소공배수/solution.js) |  |
 | 16 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=javascript) | [풀이](./Level%202/멀리%20뛰기/solution.js) | [메모](https://velog.io/@highero-k/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%A9%80%EB%A6%AC-%EB%9B%B0%EA%B8%B0-JavaScript-Level-2) |
+| 17 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476?language=javascript) | [풀이](./Level%202/귤%20고르기/solution.js) |  |
