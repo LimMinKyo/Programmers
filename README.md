@@ -14,7 +14,8 @@
 | 03 | [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804?language=javascript) | [풀이](./Level%200/두%20수의%20곱/solution.js) |  |
 | 04 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=javascript) | [풀이](./Level%200/몫%20구하기/solution.js) |  |
 | 05 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806?language=javascript) | [풀이](./Level%200/두%20수의%20나눗셈/solution.js) |  |
-| 06 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
+| 06 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807?language=javascript) | [풀이](./Level%200/숫자%20비교하기/solution.js) |  |
+| 07 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
 
 ## Level 1
 | no | 문제 | 풀이 | 메모 |
