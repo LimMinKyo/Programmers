@@ -2,13 +2,16 @@
 
 ## 목차(Table of Contents)
 
-- [Level 0](#level-0)
-- [Level 1](#level-1)
-- [Level 2](#level-2)
+- [Javascript](#Javascript)
+  - [Level 0](#level-0)
+  - [Level 1](#level-1)
+  - [Level 2](#level-2)
 - [SQL](./SQL/README.md)
   - [Level 1](./SQL/README.md#level-1)
 
-## Level 0
+## Javascript
+
+### Level 0
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=javascript) | [풀이](./Level%200/두%20수의%20합/solution.js) |  |
@@ -17,9 +20,10 @@
 | 04 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805?language=javascript) | [풀이](./Level%200/몫%20구하기/solution.js) |  |
 | 05 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806?language=javascript) | [풀이](./Level%200/두%20수의%20나눗셈/solution.js) |  |
 | 06 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807?language=javascript) | [풀이](./Level%200/숫자%20비교하기/solution.js) |  |
-| 07 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
+| 07 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808?language=javascript) | [풀이](./Level%200/분수의%20덧셈/solution.js) | [메모](https://velog.io/@gagaeun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%B6%84%EC%88%98%EC%9D%98-%EB%8D%A7%EC%85%88) |
+| 08 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
 
-## Level 1
+### Level 1
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925?language=javascript) | [풀이](./Level%201/문자열을%20정수로%20바꾸기/solution.js) |  |
@@ -55,7 +59,7 @@
 | 31 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612?language=javascript) | [풀이](./Level%201/부족한%20금액%20계산하기/solution.js) |  |
 | 32 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=javascript) | [풀이](./Level%201/최대공약수와%20최소공배수/solution.js) |  |
 
-## Level 2
+### Level 2
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939?language=javascript) | [풀이](./Level%202/최댓값과%20최솟값/solution.js) |  |
