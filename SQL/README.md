@@ -10,3 +10,8 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201?language=mysql) | [풀이](./Level%201/12세%20이하인%20여자%20환자%20목록%20출력하기/solution.sql) |  |
+
+### SUM, MAX, MIN
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697?language=mysql) | [풀이](./Level%201/가장%20비싼%20상품%20구하기/solution.sql) |  |
