@@ -15,3 +15,10 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697?language=mysql) | [풀이](./Level%201/가장%20비싼%20상품%20구하기/solution.sql) |  |
+
+## Level 2
+
+### GROUP BY
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql) | [풀이](./Level%202/가격대%20별%20상품%20개수%20구하기/solution.sql) |  |
