@@ -22,7 +22,8 @@
 | 06 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807?language=javascript) | [풀이](./Level%200/숫자%20비교하기/solution.js) |  |
 | 07 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808?language=javascript) | [풀이](./Level%200/분수의%20덧셈/solution.js) | [메모](https://velog.io/@gagaeun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%B6%84%EC%88%98%EC%9D%98-%EB%8D%A7%EC%85%88) |
 | 08 | [배열 두배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809?language=javascript) | [풀이](./Level%200/배열%20두배%20만들기/solution.js) |  |
-| 09 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
+| 09 | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=javascript) | [풀이](./Level%200/나머지%20구하기/solution.js) |  |
+| 10 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
