@@ -16,6 +16,11 @@
 |:--:|:--:|:--:|:--:|
 | 01 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697?language=mysql) | [풀이](./Level%201/가장%20비싼%20상품%20구하기/solution.sql) |  |
 
+### IS NULL
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114?language=mysql) | [풀이](./Level%201/경기도에%20위치한%20식품창고%20목록%20출력하기/solution.sql) |  |
+
 ## Level 2
 
 ### GROUP BY
