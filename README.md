@@ -24,7 +24,8 @@
 | 08 | [배열 두배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809?language=javascript) | [풀이](./Level%200/배열%20두배%20만들기/solution.js) |  |
 | 09 | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=javascript) | [풀이](./Level%200/나머지%20구하기/solution.js) |  |
 | 10 | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811?language=javascript) | [풀이](./Level%200/중앙값%20구하기/solution.js) |  |
-| 11 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
+| 11 | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812?language=javascript) | [풀이](./Level%200/최빈값%20구하기/solution.js) |  |
+| 12 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
