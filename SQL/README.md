@@ -21,6 +21,11 @@
 |:--:|:--:|:--:|:--:|
 | 01 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114?language=mysql) | [풀이](./Level%201/경기도에%20위치한%20식품창고%20목록%20출력하기/solution.sql) |  |
 
+### String, Date
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138?language=mysql) | [풀이](./Level%201/자동차%20대여%20기록에서%20장기%20단기%20대여%20구분하기/solution.sql) |  |
+
 ## Level 2
 
 ### GROUP BY
