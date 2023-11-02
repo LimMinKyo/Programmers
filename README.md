@@ -26,7 +26,8 @@
 | 10 | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811?language=javascript) | [풀이](./Level%200/중앙값%20구하기/solution.js) |  |
 | 11 | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812?language=javascript) | [풀이](./Level%200/최빈값%20구하기/solution.js) |  |
 | 12 | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813?language=javascript) | [풀이](./Level%200/짝수는%20싫어요/solution.js) |  |
-| 13 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
+| 13 | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814?language=javascript) | [풀이](./Level%200/피자%20나눠%20먹기%20(1)/solution.js) |  |
+| 14 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
