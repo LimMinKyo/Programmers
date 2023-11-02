@@ -89,3 +89,4 @@
 | 17 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476?language=javascript) | [풀이](./Level%202/귤%20고르기/solution.js) |  |
 | 18 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701?language=javascript) | [풀이](./Level%202/연속%20부분%20수열%20합의%20개수/solution.js) | [메모](https://velog.io/@cyd5538/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%97%B0%EC%86%8D-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4-%ED%95%A9%EC%9D%98-%EA%B0%9C%EC%88%98JS) |
 | 19 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502?language=javascript) | [풀이](./Level%202/괄호%20회전하기/solution.js) |  |
+| 20 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577?language=javascript) | [풀이](./Level%202/전화번호%20목록/solution.js) | [메모](./Level%202/전화번호%20목록/memo.md) |
