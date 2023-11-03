@@ -6,6 +6,7 @@
   - [Level 0](#level-0)
   - [Level 1](#level-1)
   - [Level 2](#level-2)
+  - [Level 3](#level-3)
 - [SQL](./SQL/README.md)
   - [Level 1](./SQL/README.md#level-1)
 
@@ -91,3 +92,8 @@
 | 19 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502?language=javascript) | [풀이](./Level%202/괄호%20회전하기/solution.js) |  |
 | 20 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577?language=javascript) | [풀이](./Level%202/전화번호%20목록/solution.js) | [메모](./Level%202/전화번호%20목록/memo.md) |
 | 21 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=javascript) | [풀이](./Level%202/타겟%20넘버/solution.js) | [메모](./Level%202/타겟%20넘버/memo.md) |
+
+### Level 3
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189?language=javascript) | [풀이](./Level%203/가장%20먼%20노드/solution.js) | [메모](./Level%203/가장%20먼%20노드/memo.md) |
