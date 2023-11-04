@@ -3,6 +3,7 @@
 ## 목차(Table of Contents)
 
 - [Level 1](#level-1)
+- [Level 2](#level-2)
 
 ## Level 1
 
@@ -11,6 +12,7 @@
 |:--:|:--:|:--:|:--:|
 | 01 | [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201?language=mysql) | [풀이](./Level%201/12세%20이하인%20여자%20환자%20목록%20출력하기/solution.sql) |  |
 | 02 | [인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024?language=mysql) | [풀이](./Level%201/인기있는%20아이스크림/solution.sql) |  |
+| 03 | [조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853?language=mysql) | [풀이](./Level%201/조건에%20맞는%20도서%20리스트%20출력하기/solution.sql) |  |
 
 ### SUM, MAX, MIN
 | no | 문제 | 풀이 | 메모 |

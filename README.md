@@ -9,6 +9,7 @@
   - [Level 3](#level-3)
 - [SQL](./SQL/README.md)
   - [Level 1](./SQL/README.md#level-1)
+  - [Level 2](./SQL/README.md#level-2)
 
 ## Javascript
 
