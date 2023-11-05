@@ -18,6 +18,7 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697?language=mysql) | [풀이](./Level%201/가장%20비싼%20상품%20구하기/solution.sql) |  |
+| 02 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415?language=mysql) | [풀이](./Level%201/최댓값%20구하기/solution.sql) |  |
 
 ### IS NULL
 | no | 문제 | 풀이 | 메모 |
