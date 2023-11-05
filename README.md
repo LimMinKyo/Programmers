@@ -31,7 +31,8 @@
 | 13 | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814?language=javascript) | [풀이](./Level%200/피자%20나눠%20먹기%20(1)/solution.js) |  |
 | 14 | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815?language=javascript) | [풀이](./Level%200/피자%20나눠%20먹기%20(2)/solution.js) |  |
 | 15 | [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816?language=javascript) | [풀이](./Level%200/피자%20나눠%20먹기%20(3)/solution.js) |  |
-| 16 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
+| 16 | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=javascript) | [풀이](./Level%200/배열의%20평균값/solution.js) |  |
+| 17 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
