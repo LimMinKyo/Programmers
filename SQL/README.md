@@ -29,6 +29,7 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138?language=mysql) | [풀이](./Level%201/자동차%20대여%20기록에서%20장기%20단기%20대여%20구분하기/solution.sql) |  |
+| 02 | [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343?language=mysql) | [풀이](./Level%201/특정%20옵션이%20포함된%20자동차%20리스트%20구하기/solution.sql) | [풀이](./Level%201/특정%20옵션이%20포함된%20자동차%20리스트%20구하기/memo.md) |
 
 ## Level 2
 
