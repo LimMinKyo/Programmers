@@ -104,3 +104,4 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189?language=javascript) | [풀이](./Level%203/가장%20먼%20노드/solution.js) | [메모](./Level%203/가장%20먼%20노드/memo.md) |
+| 02 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579?language=javascript) | [풀이](./Level%203/베스트앨범/solution.js) |  |
