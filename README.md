@@ -74,6 +74,7 @@
 | 32 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=javascript) | [풀이](./Level%201/최대공약수와%20최소공배수/solution.js) |  |
 | 33 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=javascript) | [풀이](./Level%201/같은%20숫자는%20싫어/solution.js) |  |
 | 34 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=javascript) | [풀이](./Level%201/폰켓몬/solution.js) |  |
+| 35 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=javascript) | [풀이](./Level%201/최소직사각형/solution.js) | [메모](https://velog.io/@sisofiy626/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-JavaScript) |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
