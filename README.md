@@ -102,6 +102,7 @@
 | 20 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577?language=javascript) | [풀이](./Level%202/전화번호%20목록/solution.js) | [메모](./Level%202/전화번호%20목록/memo.md) |
 | 21 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=javascript) | [풀이](./Level%202/타겟%20넘버/solution.js) | [메모](./Level%202/타겟%20넘버/memo.md) |
 | 22 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=javascript) | [풀이](./Level%202/의상/solution.js) | [메모](https://velog.io/@fervor_dev/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-2016%EB%85%84-JS-0quz9vim) |
+| 23 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=javascript) | [풀이](./Level%202/가장%20큰%20수/solution.js) | [메모](https://velog.io/@fastpace04/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4JavaScript-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98) |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
