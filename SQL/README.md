@@ -16,6 +16,7 @@
 | 04 | [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136?language=mysql) | [풀이](./Level%201/평균%20일일%20대여%20요금%20구하기/solution.sql) |  |
 | 05 | [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025?language=mysql) | [풀이](./Level%201/과일로%20만든%20아이스크림%20고르기/solution.sql) |  |
 | 06 | [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673?language=mysql) | [풀이](./Level%201/조건에%20부합하는%20중고거래%20댓글%20조회하기/solution.sql) |  |
+| 07 | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203?language=mysql) | [풀이](./Level%201/흉부외과%20또는%20일반외과%20의사%20목록%20출력하기/solution.sql) |  |
 
 ### SUM, MAX, MIN
 | no | 문제 | 풀이 | 메모 |
