@@ -37,6 +37,7 @@
 | 19 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=javascript) | [풀이](./Level%200/나이%20출력/solution.js) |  |
 | 20 | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821?language=javascript) | [풀이](./Level%200/배열%20뒤집기/solution.js) |  |
 | 21 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822?language=javascript) | [풀이](./Level%200/문자열%20뒤집기/solution.js) |  |
+| 22 | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823?language=javascript) | [풀이](./Level%200/직각삼각형%20출력하기/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
