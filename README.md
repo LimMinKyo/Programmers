@@ -38,6 +38,7 @@
 | 20 | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821?language=javascript) | [풀이](./Level%200/배열%20뒤집기/solution.js) |  |
 | 21 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822?language=javascript) | [풀이](./Level%200/문자열%20뒤집기/solution.js) |  |
 | 22 | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823?language=javascript) | [풀이](./Level%200/직각삼각형%20출력하기/solution.js) |  |
+| 23 | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824?language=javascript) | [풀이](./Level%200/짝수%20홀수%20개수/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
