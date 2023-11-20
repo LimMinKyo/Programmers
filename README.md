@@ -42,6 +42,7 @@
 | 24 | [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825?language=javascript) | [풀이](./Level%200/문자%20반복%20출력하기/solution.js) |  |
 | 25 | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826?language=javascript) | [풀이](./Level%200/특정%20문자%20제거하기/solution.js) |  |
 | 26 | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=javascript) | [풀이](./Level%200/각도기/solution.js) |  |
+| 27 | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=javascript) | [풀이](./Level%200/양꼬치/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
