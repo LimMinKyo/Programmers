@@ -114,6 +114,7 @@
 | 24 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747?language=javascript) | [풀이](./Level%202/H-Index/solution.js) | [메모](./Level%202/H-Index/memo.md) |
 | 25 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=javascript) | [풀이](./Level%202/소수%20찾기/solution.js) | [메모](https://han-joon-hyeok.github.io/posts/programmers-find-prime-number-level2/) |
 | 26 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=javascript) | [풀이](./Level%202/피로도/solution.js) |  |
+| 27 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971?language=javascript) | [풀이](./Level%202/전력망을%20둘로%20나누기/solution.js) | [메모](https://school.programmers.co.kr/questions/53200) |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
