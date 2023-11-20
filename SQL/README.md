@@ -21,6 +21,7 @@
 | 09 | [모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034?language=mysql) | [풀이](./Level%201/모든%20레코드%20조회하기/solution.sql) |  |
 | 10 | [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035?language=mysql) | [풀이](./Level%201/역순%20정렬하기/solution.sql) |  |
 | 11 | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036?language=mysql) | [풀이](./Level%201/아픈%20동물%20찾기/solution.sql) |  |
+| 12 | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037?language=mysql) | [풀이](./Level%201/어린%20동물%20찾기/solution.sql) |  |
 
 ### SUM, MAX, MIN
 | no | 문제 | 풀이 | 메모 |
