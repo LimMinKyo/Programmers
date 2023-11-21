@@ -43,6 +43,7 @@
 | 25 | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826?language=javascript) | [풀이](./Level%200/특정%20문자%20제거하기/solution.js) |  |
 | 26 | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=javascript) | [풀이](./Level%200/각도기/solution.js) |  |
 | 27 | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=javascript) | [풀이](./Level%200/양꼬치/solution.js) |  |
+| 28 | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831?language=javascript) | [풀이](./Level%200/짝수의%20합/solution.js) | [메모](./Level%200/짝수의%20합/memo.md) |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
