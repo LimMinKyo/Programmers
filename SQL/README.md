@@ -24,6 +24,7 @@
 | 12 | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037?language=mysql) | [풀이](./Level%201/어린%20동물%20찾기/solution.sql) |  |
 | 13 | [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403?language=mysql) | [풀이](./Level%201/동물의%20아이디와%20이름/solution.sql) |  |
 | 14 | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404?language=mysql) | [풀이](./Level%201/여러%20기준으로%20정렬하기/solution.sql) |  |
+| 15 | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405?language=mysql) | [풀이](./Level%201/상위%20n개%20레코드/solution.sql) | [메모](./Level%201/상위%20n개%20레코드/memo.md) |
 
 ### SUM, MAX, MIN
 | no | 문제 | 풀이 | 메모 |
