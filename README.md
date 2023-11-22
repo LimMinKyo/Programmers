@@ -44,6 +44,7 @@
 | 26 | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=javascript) | [풀이](./Level%200/각도기/solution.js) |  |
 | 27 | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=javascript) | [풀이](./Level%200/양꼬치/solution.js) |  |
 | 28 | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831?language=javascript) | [풀이](./Level%200/짝수의%20합/solution.js) | [메모](./Level%200/짝수의%20합/memo.md) |
+| 29 | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833?language=javascript) | [풀이](./Level%200/배열%20자르기/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
