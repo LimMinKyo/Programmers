@@ -120,6 +120,7 @@
 | 27 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971?language=javascript) | [풀이](./Level%202/전력망을%20둘로%20나누기/solution.js) | [메모](https://school.programmers.co.kr/questions/53200) |
 | 28 | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512?language=javascript) | [풀이](./Level%202/모음%20사전/solution.js) | [메모](./Level%202/모음%20사전/memo.md) |
 | 29 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=javascript) | [풀이](./Level%202/기능개발/solution.js) |  |
+| 30 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587?language=javascript) | [풀이](./Level%202/프로세스/solution.js) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
