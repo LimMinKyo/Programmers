@@ -39,6 +39,7 @@
 | 01 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114?language=mysql) | [풀이](./Level%201/경기도에%20위치한%20식품창고%20목록%20출력하기/solution.sql) |  |
 | 02 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039?language=mysql) | [풀이](./Level%201/이름이%20없는%20동물의%20아이디/solution.sql) |  |
 | 03 | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407?language=mysql) | [풀이](./Level%201/이름이%20있는%20동물의%20아이디/solution.sql) |  |
+| 04 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528?language=mysql) | [풀이](./Level%201/나이%20정보가%20없는%20회원%20수%20구하기/solution.sql) |  |
 
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
