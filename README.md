@@ -122,6 +122,7 @@
 | 28 | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512?language=javascript) | [풀이](./Level%202/모음%20사전/solution.js) | [메모](./Level%202/모음%20사전/memo.md) |
 | 29 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=javascript) | [풀이](./Level%202/기능개발/solution.js) |  |
 | 30 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587?language=javascript) | [풀이](./Level%202/프로세스/solution.js) |  |
+| 31 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583?language=javascript) | [풀이](./Level%202/다리를%20지나는%20트럭/solution.js) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
