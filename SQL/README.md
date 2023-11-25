@@ -60,6 +60,11 @@
 |:--:|:--:|:--:|:--:|
 | 01 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql) | [풀이](./Level%202/가격대%20별%20상품%20개수%20구하기/solution.sql) |  |
 
+### IS NULL
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410?language=mysql) | [풀이](./Level%202/NULL%20처리하기/solution.sql) |  |
+
 ### JOIN
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
