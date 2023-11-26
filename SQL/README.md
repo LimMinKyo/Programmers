@@ -69,3 +69,8 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854?language=mysql) | [풀이](./Level%202/조건에%20맞는%20도서와%20저자%20리스트%20출력하기/solution.sql) |  |
+
+### String, Date
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672?language=mysql) | [풀이](./Level%202/조건에%20부합하는%20중고거래%20상태%20조회하기/solution.sql) |  |
