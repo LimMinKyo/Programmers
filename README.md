@@ -47,6 +47,7 @@
 | 29 | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833?language=javascript) | [풀이](./Level%200/배열%20자르기/solution.js) |  |
 | 30 | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834?language=javascript) | [풀이](./Level%200/외계행성의%20나이/solution.js) |  |
 | 31 | [진료 순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835?language=javascript) | [풀이](./Level%200/진료%20순서%20정하기/solution.js) |  |
+| 32 | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836?language=javascript) | [풀이](./Level%200/순서쌍의%20개수/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
