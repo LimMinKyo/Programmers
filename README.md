@@ -125,6 +125,7 @@
 | 29 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586?language=javascript) | [풀이](./Level%202/기능개발/solution.js) |  |
 | 30 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587?language=javascript) | [풀이](./Level%202/프로세스/solution.js) |  |
 | 31 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583?language=javascript) | [풀이](./Level%202/다리를%20지나는%20트럭/solution.js) |  |
+| 32 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584?language=javascript) | [풀이](./Level%202/주식가격/solution.js) | [메모](https://velog.io/@eldoradodo/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-JavaScript-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9) |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
