@@ -55,6 +55,11 @@
 | 01 | [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120?language=mysql) | [풀이](./Level%202/3월에%20태어난%20여성%20회원%20목록%20출력하기/solution.sql) |  |
 | 02 | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536?language=mysql) | [풀이](./Level%202/재구매가%20일어난%20상품과%20회원%20리스트%20구하기/solution.sql) |  |
 
+### SUM, MAX, MIN
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115?language=mysql) | [풀이](./Level%202/가격이%20제일%20비싼%20식품의%20정보%20출력하기/solution.sql) |  |
+
 ### GROUP BY
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
