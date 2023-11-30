@@ -50,6 +50,7 @@
 | 32 | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836?language=javascript) | [풀이](./Level%200/순서쌍의%20개수/solution.js) |  |
 | 33 | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837?language=javascript) | [풀이](./Level%200/개미%20군단/solution.js) |  |
 | 34 | [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838?language=javascript) | [풀이](./Level%200/모스부호%20(1)/solution.js) |  |
+| 35 | [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839?language=javascript) | [풀이](./Level%200/가위%20바위%20보/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
