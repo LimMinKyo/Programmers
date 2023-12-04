@@ -137,3 +137,4 @@
 |:--:|:--:|:--:|:--:|
 | 01 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189?language=javascript) | [풀이](./Level%203/가장%20먼%20노드/solution.js) | [메모](./Level%203/가장%20먼%20노드/memo.md) |
 | 02 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579?language=javascript) | [풀이](./Level%203/베스트앨범/solution.js) |  |
+| 03 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=javascript) | [풀이](./Level%203/네트워크/solution.js) | [메모](https://velog.io/@ypyp66/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8) |
