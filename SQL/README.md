@@ -82,3 +82,4 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672?language=mysql) | [풀이](./Level%202/조건에%20부합하는%20중고거래%20상태%20조회하기/solution.sql) |  |
+| 02 | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342?language=mysql) | [풀이](./Level%202/자동차%20평균%20대여%20기간%20구하기/solution.sql) |  |
