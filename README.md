@@ -53,6 +53,7 @@
 | 35 | [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839?language=javascript) | [풀이](./Level%200/가위%20바위%20보/solution.js) |  |
 | 36 | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840?language=javascript) | [풀이](./Level%200/구슬을%20나누는%20경우의%20수/solution.js) |  |
 | 37 | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841?language=javascript) | [풀이](./Level%200/점의%20위치%20구하기/solution.js) |  |
+| 38 | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842?language=javascript) | [풀이](./Level%200/2차원으로%20만들기/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
