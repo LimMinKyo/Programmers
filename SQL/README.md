@@ -85,3 +85,4 @@
 | 02 | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342?language=mysql) | [풀이](./Level%202/자동차%20평균%20대여%20기간%20구하기/solution.sql) |  |
 | 03 | [루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046?language=mysql) | [풀이](./Level%202/루시와%20엘라%20찾기/solution.sql) |  |
 | 04 | [이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047?language=mysql) | [풀이](./Level%202/이름에%20el이%20들어가는%20동물%20찾기/solution.sql) |  |
+| 05 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409?language=mysql) | [풀이](./Level%202/중성화%20여부%20파악하기/solution.sql) |  |
