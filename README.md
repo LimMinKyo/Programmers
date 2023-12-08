@@ -135,6 +135,7 @@
 | 31 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583?language=javascript) | [풀이](./Level%202/다리를%20지나는%20트럭/solution.js) |  |
 | 32 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584?language=javascript) | [풀이](./Level%202/주식가격/solution.js) | [메모](https://velog.io/@eldoradodo/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-JavaScript-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9) |
 | 33 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=javascript) | [풀이](./Level%202/게임%20맵%20최단거리/solution.js) | [메모](https://velog.io/@leeeunbin/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B2%8C%EC%9E%84-%EB%A7%B5-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC-JavaScript) |
+| 34 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860?language=javascript) | [풀이](./Level%202/조이스틱/solution.js) | [메모](https://chamdom.blog/pg2-42860/) |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
