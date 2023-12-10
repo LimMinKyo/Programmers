@@ -58,6 +58,7 @@
 | 40 | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844?language=javascript) | [풀이](./Level%200/배열%20회전시키기/solution.js) |  |
 | 41 | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845?language=javascript) | [풀이](./Level%200/주사위의%20개수/solution.js) |  |
 | 42 | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846?language=javascript) | [풀이](./Level%200/합성수%20찾기/solution.js) |  |
+| 43 | [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847?language=javascript) | [풀이](./Level%200/최댓값%20만들기%20(1)/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
