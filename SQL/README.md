@@ -61,12 +61,13 @@
 | 01 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115?language=mysql) | [풀이](./Level%202/가격이%20제일%20비싼%20식품의%20정보%20출력하기/solution.sql) |  |
 | 02 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406?language=mysql) | [풀이](./Level%202/동물%20수%20구하기/solution.sql) |  |
 | 03 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408?language=mysql) | [풀이](./Level%202/중복%20제거하기/solution.sql) |  |
+| 04 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038?language=mysql) | [풀이](./Level%202/최솟값%20구하기/solution.sql) |  |
 
 ### GROUP BY
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
-| 01 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql) | [풀이](./Level%202/가격대%20별%20상품%20개수%20구하기/solution.sql) |  |
-| 02 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038?language=mysql) | [풀이](./Level%202/최솟값%20구하기/solution.sql) |  |
+| 01 | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137?language=mysql) | [풀이](./Level%202/자동차%20종류%20별%20특정%20옵션이%20포함된%20자동차%20수%20구하기/solution.sql) |  |
+| 02 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql) | [풀이](./Level%202/가격대%20별%20상품%20개수%20구하기/solution.sql) |  |
 
 ### IS NULL
 | no | 문제 | 풀이 | 메모 |
