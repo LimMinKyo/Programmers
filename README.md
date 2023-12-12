@@ -60,6 +60,7 @@
 | 42 | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846?language=javascript) | [풀이](./Level%200/합성수%20찾기/solution.js) |  |
 | 43 | [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847?language=javascript) | [풀이](./Level%200/최댓값%20만들기%20(1)/solution.js) |  |
 | 44 | [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848?language=javascript) | [풀이](./Level%200/팩토리얼/solution.js) |  |
+| 45 | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849?language=javascript) | [풀이](./Level%200/모음%20제거/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
