@@ -143,6 +143,7 @@
 | 33 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=javascript) | [풀이](./Level%202/게임%20맵%20최단거리/solution.js) | [메모](https://velog.io/@leeeunbin/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B2%8C%EC%9E%84-%EB%A7%B5-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC-JavaScript) |
 | 34 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860?language=javascript) | [풀이](./Level%202/조이스틱/solution.js) | [메모](https://chamdom.blog/pg2-42860/) |
 | 35 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883?language=javascript) | [풀이](./Level%202/큰%20수%20만들기/solution.js) | [메모](https://velog.io/@tnehd1998/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%81%B0-%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0-JavaScript) |
+| 36 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=javascript) | [풀이](./Level%202/더%20맵게/solution.js) | [메모](https://codingmoon.io/posts/data-structure-algorithms/heap/) |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
