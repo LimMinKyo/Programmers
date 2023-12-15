@@ -70,7 +70,8 @@
 | 02 | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026?language=mysql) | [풀이](./Level%202/성분으로%20구분한%20아이스크림%20총%20주문량/solution.sql) |  |
 | 03 | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202?language=mysql) | [풀이](./Level%202/진료과별%20총%20예약%20횟수%20출력하기/solution.sql) |  |
 | 04 | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040?language=mysql) | [풀이](./Level%202/고양이와%20개는%20몇%20마리%20있을까/solution.sql) |  |
-| 05 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql) | [풀이](./Level%202/가격대%20별%20상품%20개수%20구하기/solution.sql) |  |
+| 05 | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041?language=mysql) | [풀이](./Level%202/동명%20동물%20수%20찾기/solution.sql) |  |
+| 06 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql) | [풀이](./Level%202/가격대%20별%20상품%20개수%20구하기/solution.sql) |  |
 
 ### IS NULL
 | no | 문제 | 풀이 | 메모 |
