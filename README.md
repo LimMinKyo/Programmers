@@ -64,6 +64,7 @@
 | 46 | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850?language=javascript) | [풀이](./Level%200/문자열%20정렬하기%20(1)/solution.js) |  |
 | 47 | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851?language=javascript) | [풀이](./Level%200/숨어있는%20숫자의%20덧셈%20(1)/solution.js) |  |
 | 48 | [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852?language=javascript) | [풀이](./Level%200/소인수분해/solution.js) |  |
+| 49 | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853?language=javascript) | [풀이](./Level%200/컨트롤%20제트/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
