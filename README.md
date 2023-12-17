@@ -106,6 +106,7 @@
 | 35 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491?language=javascript) | [풀이](./Level%201/최소직사각형/solution.js) | [메모](https://velog.io/@sisofiy626/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-JavaScript) |
 | 36 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=javascript) | [풀이](./Level%201/모의고사/solution.js) |  |
 | 37 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=javascript) | [풀이](./Level%201/체육복/solution.js) | [메모](https://velog.io/@euneun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%B2%B4%EC%9C%A1%EB%B3%B5-%EA%B7%B8%EB%A6%AC%EB%94%94-javascript) |
+| 38 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=javascript) | [풀이](./Level%201/3진법%20뒤집기/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
