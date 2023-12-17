@@ -83,6 +83,7 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854?language=mysql) | [풀이](./Level%202/조건에%20맞는%20도서와%20저자%20리스트%20출력하기/solution.sql) |  |
+| 02 | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533?language=mysql) | [풀이](./Level%202/상품%20별%20오프라인%20매출%20구하기/solution.sql) |  |
 
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
