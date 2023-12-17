@@ -147,6 +147,7 @@
 | 34 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860?language=javascript) | [풀이](./Level%202/조이스틱/solution.js) | [메모](https://chamdom.blog/pg2-42860/) |
 | 35 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883?language=javascript) | [풀이](./Level%202/큰%20수%20만들기/solution.js) | [메모](https://velog.io/@tnehd1998/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%81%B0-%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0-JavaScript) |
 | 36 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=javascript) | [풀이](./Level%202/더%20맵게/solution.js) | [메모](https://codingmoon.io/posts/data-structure-algorithms/heap/) |
+| 37 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390?language=javascript) | [풀이](./Level%202/n^2%20배열%20자르기/solution.js) | [메모](https://velog.io/@front/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-n2-%EB%B0%B0%EC%97%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0) |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
