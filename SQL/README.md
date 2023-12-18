@@ -95,3 +95,10 @@
 | 05 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409?language=mysql) | [풀이](./Level%202/중성화%20여부%20파악하기/solution.sql) |  |
 | 06 | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529?language=mysql) | [풀이](./Level%202/카테고리%20별%20상품%20개수%20구하기/solution.sql) |  |
 | 07 | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414?language=mysql) | [풀이](./Level%202/DATETIME에서%20DATE로%20형%20변환/solution.sql) |  |
+
+## Level 3
+
+### String, Date
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341?language=mysql) | [풀이](./Level%203/대여%20기록이%20존재하는%20자동차%20리스트%20구하기/solution.sql) |  |
