@@ -152,6 +152,7 @@
 | 37 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390?language=javascript) | [풀이](./Level%202/n^2%20배열%20자르기/solution.js) | [메모](https://velog.io/@front/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-n2-%EB%B0%B0%EC%97%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0) |
 | 38 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127?language=javascript) | [풀이](./Level%202/할인%20행사/solution.js) |  |
 | 39 | [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680?language=javascript) | [풀이](./Level%202/[1차]%20캐시/solution.js) |  |
+| 40 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=javascript) | [풀이](./Level%202/뒤에%20있는%20큰%20수%20찾기/solution.js) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
