@@ -1,0 +1,27 @@
+WITH
+  TEMP AS (
+    SELECT
+      WRITER_ID
+    FROM
+      USED_GOODS_BOARD
+    GROUP BY
+      WRITER_ID
+    HAVING
+      COUNT(*) >= 3
+  )
+SELECT
+  USER_ID,
+  NICKNAME,
+  CONCAT (CITY, ' ', STREET_ADDRESS1, ' ', STREET_ADDRESS2) AS 전체주소,
+  CONCAT (
+    LEFT (TLNO, 3),
+    '-',
+    MID (TLNO, 4, 4),
+    '-',
+    RIGHT (TLNO, 4)
+  ) AS 전화번호
+FROM
+  USED_GOODS_USER AS USER
+  JOIN TEMP ON (USER.USER_ID = TEMP.WRITER_ID)
+ORDER BY
+  USER_ID DESC;

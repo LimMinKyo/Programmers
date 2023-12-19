@@ -102,3 +102,4 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341?language=mysql) | [풀이](./Level%203/대여%20기록이%20존재하는%20자동차%20리스트%20구하기/solution.sql) |  |
+| 02 | [조건에 맞는 사용자 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670?language=mysql) | [풀이](./Level%203/조건에%20맞는%20사용자%20정보%20조회하기/solution.sql) |  |
