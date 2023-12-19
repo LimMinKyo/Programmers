@@ -67,6 +67,7 @@
 | 48 | [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852?language=javascript) | [풀이](./Level%200/소인수분해/solution.js) |  |
 | 49 | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853?language=javascript) | [풀이](./Level%200/컨트롤%20제트/solution.js) |  |
 | 50 | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854?language=javascript) | [풀이](./Level%200/배열%20원소의%20길이/solution.js) |  |
+| 51 | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=javascript) | [풀이](./Level%200/중복된%20문자%20제거/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
