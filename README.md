@@ -112,6 +112,7 @@
 | 37 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=javascript) | [풀이](./Level%201/체육복/solution.js) | [메모](https://velog.io/@euneun/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%B2%B4%EC%9C%A1%EB%B3%B5-%EA%B7%B8%EB%A6%AC%EB%94%94-javascript) |
 | 38 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=javascript) | [풀이](./Level%201/3진법%20뒤집기/solution.js) |  |
 | 39 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=javascript) | [풀이](./Level%201/예산/solution.js) |  |
+| 40 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=javascript) | [풀이](./Level%201/이상한%20문자%20만들기/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
