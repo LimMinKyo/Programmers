@@ -114,6 +114,7 @@
 | 38 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=javascript) | [풀이](./Level%201/3진법%20뒤집기/solution.js) |  |
 | 39 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982?language=javascript) | [풀이](./Level%201/예산/solution.js) |  |
 | 40 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=javascript) | [풀이](./Level%201/이상한%20문자%20만들기/solution.js) |  |
+| 41 | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=javascript) | [풀이](./Level%201/크기가%20작은%20부분문자열/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
