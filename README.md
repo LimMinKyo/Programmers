@@ -69,6 +69,7 @@
 | 50 | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854?language=javascript) | [풀이](./Level%200/배열%20원소의%20길이/solution.js) |  |
 | 51 | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=javascript) | [풀이](./Level%200/중복된%20문자%20제거/solution.js) |  |
 | 52 | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=javascript) | [풀이](./Level%200/삼각형의%20완성조건%20(1)/solution.js) |  |
+| 53 | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890?language=javascript) | [풀이](./Level%200/가까운%20수/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
