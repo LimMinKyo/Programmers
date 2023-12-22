@@ -98,6 +98,11 @@
 
 ## Level 3
 
+### GROUP BY
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123?language=mysql) | [풀이](./Level%203/즐겨찾기가%20가장%20많은%20식당%20정보%20출력하기/solution.sql) |  |
+
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
