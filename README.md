@@ -162,6 +162,7 @@
 | 38 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127?language=javascript) | [풀이](./Level%202/할인%20행사/solution.js) |  |
 | 39 | [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680?language=javascript) | [풀이](./Level%202/[1차]%20캐시/solution.js) |  |
 | 40 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=javascript) | [풀이](./Level%202/뒤에%20있는%20큰%20수%20찾기/solution.js) |  |
+| 41 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=javascript) | [풀이](./Level%202/방문%20길이/solution.js) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
