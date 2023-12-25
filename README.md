@@ -119,6 +119,7 @@
 | 40 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=javascript) | [풀이](./Level%201/이상한%20문자%20만들기/solution.js) |  |
 | 41 | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=javascript) | [풀이](./Level%201/크기가%20작은%20부분문자열/solution.js) |  |
 | 42 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=javascript) | [풀이](./Level%201/삼총사/solution.js) |  |
+| 43 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=javascript) | [풀이](./Level%201/시저%20암호/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
