@@ -102,6 +102,7 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123?language=mysql) | [풀이](./Level%203/즐겨찾기가%20가장%20많은%20식당%20정보%20출력하기/solution.sql) |  |
+| 02 | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668?language=mysql) | [풀이](./Level%203/조건에%20맞는%20사용자와%20총%20거래금액%20조회하기/solution.sql) |  |
 
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
