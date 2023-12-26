@@ -121,6 +121,7 @@
 | 41 | [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355?language=javascript) | [풀이](./Level%201/크기가%20작은%20부분문자열/solution.js) |  |
 | 42 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=javascript) | [풀이](./Level%201/삼총사/solution.js) |  |
 | 43 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=javascript) | [풀이](./Level%201/시저%20암호/solution.js) |  |
+| 44 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=javascript) | [풀이](./Level%201/숫자%20문자열과%20영단어/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
