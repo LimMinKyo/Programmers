@@ -167,6 +167,7 @@
 | 39 | [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680?language=javascript) | [풀이](./Level%202/[1차]%20캐시/solution.js) |  |
 | 40 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539?language=javascript) | [풀이](./Level%202/뒤에%20있는%20큰%20수%20찾기/solution.js) |  |
 | 41 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=javascript) | [풀이](./Level%202/방문%20길이/solution.js) |  |
+| 42 | [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677?language=javascript) | [풀이](./Level%202/[1차]%20뉴스%20클러스터링/solution.js) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
