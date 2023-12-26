@@ -73,6 +73,7 @@
 | 54 | [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891?language=javascript) | [풀이](./Level%200/369게임/solution.js) |  |
 | 55 | [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892?language=javascript) | [풀이](./Level%200/암호%20해독/solution.js) |  |
 | 56 | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893?language=javascript) | [풀이](./Level%200/대문자와%20소문자/solution.js) |  |
+| 57 | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894?language=javascript) | [풀이](./Level%200/영어가%20싫어요/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
