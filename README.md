@@ -123,6 +123,7 @@
 | 42 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705?language=javascript) | [풀이](./Level%201/삼총사/solution.js) |  |
 | 43 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=javascript) | [풀이](./Level%201/시저%20암호/solution.js) |  |
 | 44 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=javascript) | [풀이](./Level%201/숫자%20문자열과%20영단어/solution.js) |  |
+| 45 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=javascript) | [풀이](./Level%201/가장%20가까운%20같은%20글자/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
