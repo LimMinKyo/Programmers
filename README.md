@@ -173,6 +173,7 @@
 | 41 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=javascript) | [풀이](./Level%202/방문%20길이/solution.js) |  |
 | 42 | [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677?language=javascript) | [풀이](./Level%202/[1차]%20뉴스%20클러스터링/solution.js) |  |
 | 43 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335?language=javascript) | [풀이](./Level%202/k진수에서%20소수%20개수%20구하기/solution.js) |  |
+| 44 | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684?language=javascript) | [풀이](./Level%202/[3차]%20압축/solution.js) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
