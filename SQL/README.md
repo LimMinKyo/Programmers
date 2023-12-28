@@ -106,6 +106,11 @@
 | 03 | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855?language=mysql) | [풀이](./Level%203/카테고리%20별%20도서%20판매량%20집계하기/solution.sql) |  |
 | 04 | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139?language=mysql) | [풀이](./Level%203/대여%20횟수가%20많은%20자동차들의%20월별%20대여%20횟수%20구하기/solution.sql) |  |
 
+### JOIN
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042?language=mysql) | [풀이](./Level%203/없어진%20기록%20찾기/solution.sql) |  |
+
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
