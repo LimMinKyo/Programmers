@@ -127,6 +127,7 @@
 | 44 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=javascript) | [풀이](./Level%201/숫자%20문자열과%20영단어/solution.js) |  |
 | 45 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=javascript) | [풀이](./Level%201/가장%20가까운%20같은%20글자/solution.js) |  |
 | 46 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=javascript) | [풀이](./Level%201/문자열%20내%20마음대로%20정렬하기/solution.js) |  |
+| 47 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=javascript) | [풀이](./Level%201/푸드%20파이트%20대회/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
