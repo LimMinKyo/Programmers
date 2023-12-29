@@ -76,6 +76,7 @@
 | 57 | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894?language=javascript) | [풀이](./Level%200/영어가%20싫어요/solution.js) |  |
 | 58 | [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=javascript) | [풀이](./Level%200/인덱스%20바꾸기/solution.js) |  |
 | 59 | [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896?language=javascript) | [풀이](./Level%200/한%20번만%20등장한%20문자/solution.js) |  |
+| 60 | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=javascript) | [풀이](./Level%200/약수%20구하기/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
