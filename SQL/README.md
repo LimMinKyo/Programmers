@@ -111,6 +111,7 @@
 |:--:|:--:|:--:|:--:|
 | 01 | [없어진 기록 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59042?language=mysql) | [풀이](./Level%203/없어진%20기록%20찾기/solution.sql) |  |
 | 02 | [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043?language=mysql) | [풀이](./Level%203/있었는데요%20없었습니다/solution.sql) |  |
+| 03 | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044?language=mysql) | [풀이](./Level%203/오랜%20기간%20보호한%20동물(1)/solution.sql) |  |
 
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
