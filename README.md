@@ -11,6 +11,7 @@
   - [Level 1](./SQL/README.md#level-1)
   - [Level 2](./SQL/README.md#level-2)
   - [Level 3](./SQL/README.md#level-3)
+  - [Level 4](./SQL/README.md#level-4)
 
 ## Javascript
 

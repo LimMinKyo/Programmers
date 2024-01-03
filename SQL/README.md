@@ -121,3 +121,10 @@
 | 03 | [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671?language=mysql) | [풀이](./Level%203/조회수가%20가장%20많은%20중고거래%20게시판의%20첨부파일%20조회하기/solution.sql) |  |
 | 04 | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113?language=mysql) | [풀이](./Level%203/조건별로%20분류하여%20주문상태%20출력하기/solution.sql) |  |
 | 05 | [오랜 기간 보호한 동물(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411?language=mysql) | [풀이](./Level%203/오랜%20기간%20보호한%20동물(2)/solution.sql) |  |
+
+## Level 4
+
+### SELECT
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118?language=mysql) | [풀이](./Level%204/서울에%20위치한%20식당%20목록%20출력하기/solution.sql) |  |
