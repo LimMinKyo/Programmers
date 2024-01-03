@@ -80,6 +80,7 @@
 | 60 | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=javascript) | [풀이](./Level%200/약수%20구하기/solution.js) |  |
 | 61 | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898?language=javascript) | [풀이](./Level%200/편지/solution.js) |  |
 | 62 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899?language=javascript) | [풀이](./Level%200/가장%20큰%20수%20찾기/solution.js) |  |
+| 63 | [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902?language=javascript) | [풀이](./Level%200/문자열%20계산하기/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
