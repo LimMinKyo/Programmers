@@ -16,6 +16,8 @@
 ## Javascript
 
 ### Level 0
+
+#### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=javascript) | [풀이](./Level%200/두%20수의%20합/solution.js) |  |
@@ -81,6 +83,7 @@
 | 61 | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898?language=javascript) | [풀이](./Level%200/편지/solution.js) |  |
 | 62 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899?language=javascript) | [풀이](./Level%200/가장%20큰%20수%20찾기/solution.js) |  |
 | 63 | [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902?language=javascript) | [풀이](./Level%200/문자열%20계산하기/solution.js) |  |
+| 64 | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=javascript) | [풀이](./Level%200/배열의%20유사도/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
