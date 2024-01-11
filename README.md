@@ -136,6 +136,7 @@
 | 46 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=javascript) | [풀이](./Level%201/문자열%20내%20마음대로%20정렬하기/solution.js) |  |
 | 47 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=javascript) | [풀이](./Level%201/푸드%20파이트%20대회/solution.js) |  |
 | 48 | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=javascript) | [풀이](./Level%201/[1차]%20비밀지도/solution.js) |  |
+| 49 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=javascript) | [풀이](./Level%201/두%20개%20뽑아서%20더하기/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
