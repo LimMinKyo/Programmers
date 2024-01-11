@@ -129,3 +129,8 @@
 |:--:|:--:|:--:|:--:|
 | 01 | [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118?language=mysql) | [풀이](./Level%204/서울에%20위치한%20식당%20목록%20출력하기/solution.sql) |  |
 | 02 | [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537?language=mysql) | [풀이](./Level%204/오프라인%20온라인%20판매%20데이터%20통합하기/solution.sql) |  |
+
+### String, Date
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141?language=mysql) | [풀이](./Level%204/자동차%20대여%20기록%20별%20대여%20금액%20구하기/solution.sql) |  |
