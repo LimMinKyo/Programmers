@@ -138,6 +138,7 @@
 | 47 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=javascript) | [풀이](./Level%201/푸드%20파이트%20대회/solution.js) |  |
 | 48 | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=javascript) | [풀이](./Level%201/[1차]%20비밀지도/solution.js) |  |
 | 49 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=javascript) | [풀이](./Level%201/두%20개%20뽑아서%20더하기/solution.js) |  |
+| 50 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=javascript) | [풀이](./Level%201/콜라%20문제/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
