@@ -85,6 +85,7 @@
 | 63 | [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902?language=javascript) | [풀이](./Level%200/문자열%20계산하기/solution.js) |  |
 | 64 | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903?language=javascript) | [풀이](./Level%200/배열의%20유사도/solution.js) |  |
 | 65 | [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904?language=javascript) | [풀이](./Level%200/숫자%20찾기/solution.js) |  |
+| 66 | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905?language=javascript) | [풀이](./Level%200/n의%20배수%20고르기/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
