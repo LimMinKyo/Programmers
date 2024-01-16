@@ -140,6 +140,7 @@
 | 48 | [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=javascript) | [풀이](./Level%201/[1차]%20비밀지도/solution.js) |  |
 | 49 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=javascript) | [풀이](./Level%201/두%20개%20뽑아서%20더하기/solution.js) |  |
 | 50 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=javascript) | [풀이](./Level%201/콜라%20문제/solution.js) |  |
+| 51 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=javascript) | [풀이](./Level%201/추억%20점수/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
