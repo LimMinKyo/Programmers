@@ -130,6 +130,11 @@
 | 01 | [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118?language=mysql) | [풀이](./Level%204/서울에%20위치한%20식당%20목록%20출력하기/solution.sql) |  |
 | 02 | [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537?language=mysql) | [풀이](./Level%204/오프라인%20온라인%20판매%20데이터%20통합하기/solution.sql) |  |
 
+### GROUP BY
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856?language=mysql) | [풀이](./Level%204/저자%20별%20카테고리%20별%20매출액%20집계하기/solution.sql) |  |
+
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
