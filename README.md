@@ -21,6 +21,7 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | [풀이](./Level%200/문자열%20출력하기) |  |
+| 02 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | [풀이](./Level%200/a와%20b%20출력하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
