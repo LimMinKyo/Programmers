@@ -2,7 +2,7 @@
 
 ## 목차(Table of Contents)
 
-- [Javascript](#Javascript)
+- [Algorithm](#Algorithm)
   - [Level 0](#level-0)
   - [Level 1](#level-1)
   - [Level 2](#level-2)
@@ -13,7 +13,7 @@
   - [Level 3](./SQL/README.md#level-3)
   - [Level 4](./SQL/README.md#level-4)
 
-## Javascript
+## Algorithm
 
 ### Level 0
 
