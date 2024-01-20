@@ -94,6 +94,7 @@
 | 65 | [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904?language=javascript) | [풀이](./Level%200/숫자%20찾기/solution.js) |  |
 | 66 | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905?language=javascript) | [풀이](./Level%200/n의%20배수%20고르기/solution.js) |  |
 | 67 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906?language=javascript) | [풀이](./Level%200/자릿수%20더하기/solution.js) |  |
+| 68 | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907?language=javascript) | [풀이](./Level%200/OX퀴즈/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
