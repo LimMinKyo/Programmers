@@ -23,6 +23,7 @@
 | 01 | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | [풀이](./Level%200/문자열%20출력하기) |  |
 | 02 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | [풀이](./Level%200/a와%20b%20출력하기) |  |
 | 03 | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) | [풀이](./Level%200/문자열%20반복해서%20출력하기) |  |
+| 04 | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [풀이](./Level%200/대소문자%20바꿔서%20출력하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
