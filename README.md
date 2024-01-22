@@ -98,6 +98,7 @@
 | 67 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906?language=javascript) | [풀이](./Level%200/자릿수%20더하기/solution.js) |  |
 | 68 | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907?language=javascript) | [풀이](./Level%200/OX퀴즈/solution.js) |  |
 | 69 | [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908?language=javascript) | [풀이](./Level%200/문자열안에%20문자열/solution.js) |  |
+| 70 | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909?language=javascript) | [풀이](./Level%200/제곱수%20판별하기/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
