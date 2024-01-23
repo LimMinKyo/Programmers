@@ -26,6 +26,7 @@
 | 04 | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [풀이](./Level%200/대소문자%20바꿔서%20출력하기) |  |
 | 05 | [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948) | [풀이](./Level%200/특수문자%20출력하기) |  |
 | 06 | [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947) | [풀이](./Level%200/덧셈식%20출력하기) |  |
+| 07 | [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946) | [풀이](./Level%200/문자열%20붙여서%20출력하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
