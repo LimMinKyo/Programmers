@@ -161,6 +161,7 @@
 | 50 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=javascript) | [풀이](./Level%201/콜라%20문제/solution.js) |  |
 | 51 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=javascript) | [풀이](./Level%201/추억%20점수/solution.js) |  |
 | 52 | [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=javascript) | [풀이](./Level%201/명예의%20전당%20(1)/solution.js) |  |
+| 53 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=javascript) | [풀이](./Level%201/카드%20뭉치/solution.js) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
