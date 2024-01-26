@@ -104,6 +104,7 @@
 | 70 | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909?language=javascript) | [풀이](./Level%200/제곱수%20판별하기/solution.js) |  |
 | 71 | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910?language=javascript) | [풀이](./Level%200/세균%20증식/solution.js) |  |
 | 72 | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911?language=javascript) | [풀이](./Level%200/문자열%20정렬하기%20(2)/solution.js) |  |
+| 73 | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912?language=javascript) | [풀이](./Level%200/7의%20개수/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
