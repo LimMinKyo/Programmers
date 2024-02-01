@@ -141,6 +141,11 @@
 | 03 | [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532?language=mysql) | [풀이](./Level%204/년,%20월,%20성별%20별%20상품%20구매%20회원%20수%20구하기/solution.sql) |  |
 | 04 | [입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413?language=mysql) | [풀이](./Level%204/입양%20시각%20구하기(2)/solution.sql) |  |
 
+### JOIN
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027?language=mysql) | [풀이](./Level%204/주문량이%20많은%20아이스크림들%20조회하기/solution.sql) |  |
+
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
