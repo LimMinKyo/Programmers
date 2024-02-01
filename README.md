@@ -110,6 +110,7 @@
 | 72 | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911?language=javascript) | [풀이](./Level%200/문자열%20정렬하기%20(2)/solution.js) |  |
 | 73 | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912?language=javascript) | [풀이](./Level%200/7의%20개수/solution.js) |  |
 | 74 | [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913?language=javascript) | [풀이](./Level%200/잘라서%20배열로%20저장하기/solution.js) |  |
+| 75 | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583?language=javascript) | [풀이](./Level%200/중복된%20숫자%20개수/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
