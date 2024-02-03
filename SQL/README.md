@@ -145,6 +145,7 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027?language=mysql) | [풀이](./Level%204/주문량이%20많은%20아이스크림들%20조회하기/solution.sql) |  |
+| 02 | [특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157339?language=mysql) | [풀이](./Level%204/특정%20기간동안%20대여%20가능한%20자동차들의%20대여비용%20구하기/solution.sql) |  |
 
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
