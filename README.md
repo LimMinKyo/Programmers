@@ -32,6 +32,7 @@
 | 10 | [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943) | [풀이](./Level%200/문자열%20겹쳐쓰기) |  |
 | 11 | [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942) | [풀이](./Level%200/문자열%20섞기) |  |
 | 12 | [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | [풀이](./Level%200/문자%20리스트를%20문자열로%20변환하기) |  |
+| 13 | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940) | [풀이](./Level%200/문자열%20곱하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
