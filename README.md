@@ -118,6 +118,7 @@
 | 76 | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585?language=javascript) | [풀이](./Level%200/머쓱이보다%20키%20큰%20사람/solution.js) |  |
 | 77 | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860?language=javascript) | [풀이](./Level%200/직사각형%20넓이%20구하기/solution.js) |  |
 | 78 | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861?language=javascript) | [풀이](./Level%200/캐릭터의%20좌표/solution.js) |  |
+| 79 | [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862?language=javascript) | [풀이](./Level%200/최댓값%20만들기%20(2)/solution.js) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
