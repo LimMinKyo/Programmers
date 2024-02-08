@@ -37,6 +37,7 @@
 | 15 | [두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938) | [풀이](./Level%200/두%20수의%20연산값%20비교하기) |  |
 | 16 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [풀이](./Level%200/n의%20배수) |  |
 | 17 | [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | [풀이](./Level%200/공배수) |  |
+| 18 | [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [풀이](./Level%200/홀짝에%20따라%20다른%20값%20반환하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
