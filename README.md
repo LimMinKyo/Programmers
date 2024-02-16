@@ -40,6 +40,7 @@
 | 18 | [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [풀이](./Level%200/홀짝에%20따라%20다른%20값%20반환하기) |  |
 | 19 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | [풀이](./Level%200/조건%20문자열) |  |
 | 20 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | [풀이](./Level%200/flag에%20따라%20다른%20값%20반환하기) |  |
+| 21 | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | [풀이](./Level%200/코드%20처리하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
