@@ -42,6 +42,7 @@
 | 20 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | [풀이](./Level%200/flag에%20따라%20다른%20값%20반환하기) |  |
 | 21 | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | [풀이](./Level%200/코드%20처리하기) |  |
 | 22 | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | [풀이](./Level%200/등차수열의%20특정한%20항만%20더하기) |  |
+| 23 | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | [풀이](./Level%200/주사위%20게임%202) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
