@@ -47,6 +47,7 @@
 | 25 | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | [풀이](./Level%200/이어%20붙인%20수) |  |
 | 26 | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [풀이](./Level%200/마지막%20두%20원소) |  |
 | 27 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | [풀이](./Level%200/수%20조작하기%201) |  |
+| 28 | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | [풀이](./Level%200/수%20조작하기%202) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
