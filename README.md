@@ -50,6 +50,7 @@
 | 28 | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | [풀이](./Level%200/수%20조작하기%202) |  |
 | 29 | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924) | [풀이](./Level%200/수열과%20구간%20쿼리%203) |  |
 | 30 | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | [풀이](./Level%200/수열과%20구간%20쿼리%202) |  |
+| 31 | [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922) | [풀이](./Level%200/수열과%20구간%20쿼리%204) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
