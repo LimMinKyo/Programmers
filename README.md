@@ -51,6 +51,7 @@
 | 29 | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924) | [풀이](./Level%200/수열과%20구간%20쿼리%203) |  |
 | 30 | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | [풀이](./Level%200/수열과%20구간%20쿼리%202) |  |
 | 31 | [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922) | [풀이](./Level%200/수열과%20구간%20쿼리%204) |  |
+| 32 | [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) | [풀이](./Level%200/배열%20만들기%202) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
