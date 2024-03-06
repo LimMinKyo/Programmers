@@ -28,6 +28,7 @@
 | 14 | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404?language=mysql) | [풀이](./Level%201/여러%20기준으로%20정렬하기/solution.sql) |  |
 | 15 | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405?language=mysql) | [풀이](./Level%201/상위%20n개%20레코드/solution.sql) | [메모](./Level%201/상위%20n개%20레코드/memo.md) |
 | 16 | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535?language=mysql) | [풀이](./Level%201/조건에%20맞는%20회원수%20구하기/solution.sql) |  |
+| 17 | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013?language=mysql) | [풀이](./Level%201/Python%20개발자%20찾기/solution.sql) |  |
 
 ### SUM, MAX, MIN
 | no | 문제 | 풀이 | 메모 |
