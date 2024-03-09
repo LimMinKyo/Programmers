@@ -55,6 +55,7 @@
 | 33 | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | [풀이](./Level%200/카운트%20업) |  |
 | 34 | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [풀이](./Level%200/콜라츠%20수열%20만들기) |  |
 | 35 | [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918) | [풀이](./Level%200/배열%20만들기%204) |  |
+| 36 | [간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917) | [풀이](./Level%200/간단한%20논리%20연산) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
