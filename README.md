@@ -56,6 +56,7 @@
 | 34 | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [풀이](./Level%200/콜라츠%20수열%20만들기) |  |
 | 35 | [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918) | [풀이](./Level%200/배열%20만들기%204) |  |
 | 36 | [간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917) | [풀이](./Level%200/간단한%20논리%20연산) |  |
+| 37 | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) | [풀이](./Level%200/주사위%20게임%203) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
