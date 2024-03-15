@@ -61,6 +61,7 @@
 | 39 | [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | [풀이](./Level%200/9로%20나눈%20나머지) |  |
 | 40 | [문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913) | [풀이](./Level%200/문자열%20여러%20번%20뒤집기) |  |
 | 41 | [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) | [풀이](./Level%200/배열%20만들기%205) |  |
+| 42 | [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [풀이](./Level%200/부분%20문자열%20이어%20붙여%20문자열%20만들기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
