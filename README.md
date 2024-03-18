@@ -64,6 +64,7 @@
 | 42 | [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [풀이](./Level%200/부분%20문자열%20이어%20붙여%20문자열%20만들기) |  |
 | 43 | [문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | [풀이](./Level%200/문자열의%20뒤의%20n글자) |  |
 | 44 | [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | [풀이](./Level%200/접미사%20배열) |  |
+| 45 | [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | [풀이](./Level%200/접미사인지%20확인하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
