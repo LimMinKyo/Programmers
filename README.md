@@ -67,6 +67,7 @@
 | 45 | [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | [풀이](./Level%200/코딩%20기초%20트레이닝/접미사인지%20확인하기) |  |
 | 46 | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열의%20앞의%20n글자) |  |
 | 47 | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906) | [풀이](./Level%200/코딩%20기초%20트레이닝/접두사인지%20확인하기) |  |
+| 48 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20뒤집기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
