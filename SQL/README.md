@@ -30,6 +30,7 @@
 | 16 | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535?language=mysql) | [풀이](./Level%201/조건에%20맞는%20회원수%20구하기/solution.sql) |  |
 | 17 | [Python 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276013?language=mysql) | [풀이](./Level%201/Python%20개발자%20찾기/solution.sql) |  |
 | 18 | [잔챙이 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293258?language=mysql) | [풀이](./Level%201/잔챙이%20잡은%20수%20구하기/solution.sql) |  |
+| 19 | [가장 큰 물고기 10마리 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298517?language=mysql) | [풀이](./Level%201/가장%20큰%20물고기%2010마리%20구하기/solution.sql) |  |
 
 ### SUM, MAX, MIN
 | no | 문제 | 풀이 | 메모 |
