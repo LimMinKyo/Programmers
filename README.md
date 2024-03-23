@@ -20,53 +20,53 @@
 #### 코딩 기초 트레이닝
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
-| 01 | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | [풀이](./Level%200/문자열%20출력하기) |  |
-| 02 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | [풀이](./Level%200/a와%20b%20출력하기) |  |
-| 03 | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) | [풀이](./Level%200/문자열%20반복해서%20출력하기) |  |
-| 04 | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [풀이](./Level%200/대소문자%20바꿔서%20출력하기) |  |
-| 05 | [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948) | [풀이](./Level%200/특수문자%20출력하기) |  |
-| 06 | [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947) | [풀이](./Level%200/덧셈식%20출력하기) |  |
-| 07 | [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946) | [풀이](./Level%200/문자열%20붙여서%20출력하기) |  |
-| 08 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | [풀이](./Level%200/문자열%20돌리기) |  |
-| 09 | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | [풀이](./Level%200/홀짝%20구분하기) |  |
-| 10 | [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943) | [풀이](./Level%200/문자열%20겹쳐쓰기) |  |
-| 11 | [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942) | [풀이](./Level%200/문자열%20섞기) |  |
-| 12 | [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | [풀이](./Level%200/문자%20리스트를%20문자열로%20변환하기) |  |
-| 13 | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940) | [풀이](./Level%200/문자열%20곱하기) |  |
-| 14 | [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | [풀이](./Level%200/더%20크게%20합치기) |  |
-| 15 | [두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938) | [풀이](./Level%200/두%20수의%20연산값%20비교하기) |  |
-| 16 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [풀이](./Level%200/n의%20배수) |  |
-| 17 | [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | [풀이](./Level%200/공배수) |  |
-| 18 | [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [풀이](./Level%200/홀짝에%20따라%20다른%20값%20반환하기) |  |
-| 19 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | [풀이](./Level%200/조건%20문자열) |  |
-| 20 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | [풀이](./Level%200/flag에%20따라%20다른%20값%20반환하기) |  |
-| 21 | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | [풀이](./Level%200/코드%20처리하기) |  |
-| 22 | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | [풀이](./Level%200/등차수열의%20특정한%20항만%20더하기) |  |
-| 23 | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | [풀이](./Level%200/주사위%20게임%202) |  |
-| 24 | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | [풀이](./Level%200/원소들의%20곱과%20합) |  |
-| 25 | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | [풀이](./Level%200/이어%20붙인%20수) |  |
-| 26 | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [풀이](./Level%200/마지막%20두%20원소) |  |
-| 27 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | [풀이](./Level%200/수%20조작하기%201) |  |
-| 28 | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | [풀이](./Level%200/수%20조작하기%202) |  |
-| 29 | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924) | [풀이](./Level%200/수열과%20구간%20쿼리%203) |  |
-| 30 | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | [풀이](./Level%200/수열과%20구간%20쿼리%202) |  |
-| 31 | [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922) | [풀이](./Level%200/수열과%20구간%20쿼리%204) |  |
-| 32 | [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) | [풀이](./Level%200/배열%20만들기%202) |  |
-| 33 | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | [풀이](./Level%200/카운트%20업) |  |
-| 34 | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [풀이](./Level%200/콜라츠%20수열%20만들기) |  |
-| 35 | [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918) | [풀이](./Level%200/배열%20만들기%204) |  |
-| 36 | [간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917) | [풀이](./Level%200/간단한%20논리%20연산) |  |
-| 37 | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) | [풀이](./Level%200/주사위%20게임%203) |  |
-| 38 | [글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915) | [풀이](./Level%200/글자%20이어%20붙여%20문자열%20만들기) |  |
-| 39 | [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | [풀이](./Level%200/9로%20나눈%20나머지) |  |
-| 40 | [문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913) | [풀이](./Level%200/문자열%20여러%20번%20뒤집기) |  |
-| 41 | [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) | [풀이](./Level%200/배열%20만들기%205) |  |
-| 42 | [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [풀이](./Level%200/부분%20문자열%20이어%20붙여%20문자열%20만들기) |  |
-| 43 | [문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | [풀이](./Level%200/문자열의%20뒤의%20n글자) |  |
-| 44 | [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | [풀이](./Level%200/접미사%20배열) |  |
-| 45 | [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | [풀이](./Level%200/접미사인지%20확인하기) |  |
-| 46 | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907) | [풀이](./Level%200/문자열의%20앞의%20n글자) |  |
-| 47 | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906) | [풀이](./Level%200/접두사인지%20확인하기) |  |
+| 01 | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20출력하기) |  |
+| 02 | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | [풀이](./Level%200/코딩%20기초%20트레이닝/a와%20b%20출력하기) |  |
+| 03 | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20반복해서%20출력하기) |  |
+| 04 | [대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [풀이](./Level%200/코딩%20기초%20트레이닝/대소문자%20바꿔서%20출력하기) |  |
+| 05 | [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948) | [풀이](./Level%200/코딩%20기초%20트레이닝/특수문자%20출력하기) |  |
+| 06 | [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947) | [풀이](./Level%200/코딩%20기초%20트레이닝/덧셈식%20출력하기) |  |
+| 07 | [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20붙여서%20출력하기) |  |
+| 08 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20돌리기) |  |
+| 09 | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | [풀이](./Level%200/코딩%20기초%20트레이닝/홀짝%20구분하기) |  |
+| 10 | [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20겹쳐쓰기) |  |
+| 11 | [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20섞기) |  |
+| 12 | [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자%20리스트를%20문자열로%20변환하기) |  |
+| 13 | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20곱하기) |  |
+| 14 | [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | [풀이](./Level%200/코딩%20기초%20트레이닝/더%20크게%20합치기) |  |
+| 15 | [두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938) | [풀이](./Level%200/코딩%20기초%20트레이닝/두%20수의%20연산값%20비교하기) |  |
+| 16 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [풀이](./Level%200/코딩%20기초%20트레이닝/n의%20배수) |  |
+| 17 | [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | [풀이](./Level%200/코딩%20기초%20트레이닝/공배수) |  |
+| 18 | [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [풀이](./Level%200/코딩%20기초%20트레이닝/홀짝에%20따라%20다른%20값%20반환하기) |  |
+| 19 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | [풀이](./Level%200/코딩%20기초%20트레이닝/조건%20문자열) |  |
+| 20 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | [풀이](./Level%200/코딩%20기초%20트레이닝/flag에%20따라%20다른%20값%20반환하기) |  |
+| 21 | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | [풀이](./Level%200/코딩%20기초%20트레이닝/코드%20처리하기) |  |
+| 22 | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | [풀이](./Level%200/코딩%20기초%20트레이닝/등차수열의%20특정한%20항만%20더하기) |  |
+| 23 | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | [풀이](./Level%200/코딩%20기초%20트레이닝/주사위%20게임%202) |  |
+| 24 | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | [풀이](./Level%200/코딩%20기초%20트레이닝/원소들의%20곱과%20합) |  |
+| 25 | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | [풀이](./Level%200/코딩%20기초%20트레이닝/이어%20붙인%20수) |  |
+| 26 | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [풀이](./Level%200/코딩%20기초%20트레이닝/마지막%20두%20원소) |  |
+| 27 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | [풀이](./Level%200/코딩%20기초%20트레이닝/수%20조작하기%201) |  |
+| 28 | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | [풀이](./Level%200/코딩%20기초%20트레이닝/수%20조작하기%202) |  |
+| 29 | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924) | [풀이](./Level%200/코딩%20기초%20트레이닝/수열과%20구간%20쿼리%203) |  |
+| 30 | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | [풀이](./Level%200/코딩%20기초%20트레이닝/수열과%20구간%20쿼리%202) |  |
+| 31 | [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922) | [풀이](./Level%200/코딩%20기초%20트레이닝/수열과%20구간%20쿼리%204) |  |
+| 32 | [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20만들기%202) |  |
+| 33 | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | [풀이](./Level%200/코딩%20기초%20트레이닝/카운트%20업) |  |
+| 34 | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [풀이](./Level%200/코딩%20기초%20트레이닝/콜라츠%20수열%20만들기) |  |
+| 35 | [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20만들기%204) |  |
+| 36 | [간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917) | [풀이](./Level%200/코딩%20기초%20트레이닝/간단한%20논리%20연산) |  |
+| 37 | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) | [풀이](./Level%200/코딩%20기초%20트레이닝/주사위%20게임%203) |  |
+| 38 | [글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915) | [풀이](./Level%200/코딩%20기초%20트레이닝/글자%20이어%20붙여%20문자열%20만들기) |  |
+| 39 | [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | [풀이](./Level%200/코딩%20기초%20트레이닝/9로%20나눈%20나머지) |  |
+| 40 | [문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20여러%20번%20뒤집기) |  |
+| 41 | [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20만들기%205) |  |
+| 42 | [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [풀이](./Level%200/코딩%20기초%20트레이닝/부분%20문자열%20이어%20붙여%20문자열%20만들기) |  |
+| 43 | [문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열의%20뒤의%20n글자) |  |
+| 44 | [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | [풀이](./Level%200/코딩%20기초%20트레이닝/접미사%20배열) |  |
+| 45 | [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | [풀이](./Level%200/코딩%20기초%20트레이닝/접미사인지%20확인하기) |  |
+| 46 | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열의%20앞의%20n글자) |  |
+| 47 | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906) | [풀이](./Level%200/코딩%20기초%20트레이닝/접두사인지%20확인하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
