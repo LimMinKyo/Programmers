@@ -71,6 +71,7 @@
 | 49 | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904) | [풀이](./Level%200/코딩%20기초%20트레이닝/세로%20읽기) |  |
 | 50 | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903) | [풀이](./Level%200/코딩%20기초%20트레이닝/qr%20code) |  |
 | 51 | [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자%20개수%20세기) |  |
+| 52 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20만들기%201) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
