@@ -72,6 +72,7 @@
 | 50 | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903) | [풀이](./Level%200/코딩%20기초%20트레이닝/qr%20code) |  |
 | 51 | [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자%20개수%20세기) |  |
 | 52 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20만들기%201) |  |
+| 53 | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | [풀이](./Level%200/코딩%20기초%20트레이닝/글자%20지우기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
@@ -180,7 +181,7 @@
 | 19 | [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) | [풀이](./Level%201/약수의%20합) |  |
 | 20 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) | [풀이](./Level%201/문자열%20내%20p와%20y의%20개수) |  |
 | 21 | [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) | [풀이](./Level%201/나머지가%201이%20되는%20수%20찾기) |  |
-| 22 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | [풀이](./Level%201/수박수박수박수박수박수%3F) |  |
+| 22 | [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | [풀이](./Level%201/수박수박수박수박수박수) |  |
 | 23 | [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [풀이](./Level%201/서울에서%20김서방%20찾기) |  |
 | 24 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) | [풀이](./Level%201/나누어%20떨어지는%20숫자%20배열) |  |
 | 25 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) | [풀이](./Level%201/두%20정수%20사이의%20합) |  |
