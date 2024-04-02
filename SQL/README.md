@@ -45,6 +45,7 @@
 | 02 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039?language=mysql) | [풀이](./Level%201/이름이%20없는%20동물의%20아이디/solution.sql) |  |
 | 03 | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407?language=mysql) | [풀이](./Level%201/이름이%20있는%20동물의%20아이디/solution.sql) |  |
 | 04 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528?language=mysql) | [풀이](./Level%201/나이%20정보가%20없는%20회원%20수%20구하기/solution.sql) |  |
+| 05 | [잡은 물고기의 평균 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293259?language=mysql) | [풀이](./Level%201/잡은%20물고기의%20평균%20길이%20구하기/solution.sql) |  |
 
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
