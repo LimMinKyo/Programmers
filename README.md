@@ -214,6 +214,7 @@
 | 51 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | [풀이](./Level%201/추억%20점수) |  |
 | 52 | [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | [풀이](./Level%201/명예의%20전당%20(1)) |  |
 | 53 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | [풀이](./Level%201/카드%20뭉치) |  |
+| 54 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [풀이](./Level%201/실패율) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
