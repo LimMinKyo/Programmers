@@ -74,6 +74,7 @@
 | 52 | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20만들기%201) |  |
 | 53 | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | [풀이](./Level%200/코딩%20기초%20트레이닝/글자%20지우기) |  |
 | 54 | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | [풀이](./Level%200/코딩%20기초%20트레이닝/카운트%20다운) |  |
+| 55 | [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | [풀이](./Level%200/코딩%20기초%20트레이닝/가까운%201%20찾기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
