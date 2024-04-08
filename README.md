@@ -76,6 +76,7 @@
 | 54 | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | [풀이](./Level%200/코딩%20기초%20트레이닝/카운트%20다운) |  |
 | 55 | [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | [풀이](./Level%200/코딩%20기초%20트레이닝/가까운%201%20찾기) |  |
 | 56 | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897) | [풀이](./Level%200/코딩%20기초%20트레이닝/리스트%20자르기) |  |
+| 57 | [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896) | [풀이](./Level%200/코딩%20기초%20트레이닝/첫%20번째로%20나오는%20음수) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
