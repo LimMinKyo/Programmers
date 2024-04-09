@@ -66,6 +66,7 @@
 | 03 | [업그레이드 된 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273711?language=mysql) | [풀이](./Level%202/업그레이드%20된%20아이템%20구하기/solution.sql) |  |
 | 04 | [조건에 맞는 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276034?language=mysql) | [풀이](./Level%202/조건에%20맞는%20개발자%20찾기/solution.sql) |  |
 | 05 | [특정 물고기를 잡은 총 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298518?language=mysql) | [풀이](./Level%202/특정%20물고기를%20잡은%20총%20수%20구하기/solution.sql) |  |
+| 06 | [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647?language=mysql) | [풀이](./Level%202/부모의%20형질을%20모두%20가지는%20대장균%20찾기/solution.sql) |  |
 
 ### SUM, MAX, MIN
 | no | 문제 | 풀이 | 메모 |
