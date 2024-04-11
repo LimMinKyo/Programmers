@@ -76,6 +76,7 @@
 | 03 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408?language=mysql) | [풀이](./Level%202/중복%20제거하기/solution.sql) |  |
 | 04 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038?language=mysql) | [풀이](./Level%202/최솟값%20구하기/solution.sql) |  |
 | 05 | [조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709?language=mysql) | [풀이](./Level%202/조건에%20맞는%20아이템들의%20가격의%20총합%20구하기/solution.sql) |  |
+| 06 | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310?language=mysql) | [풀이](./Level%202/연도별%20대장균%20크기의%20편차%20구하기/solution.sql) |  |
 
 ### GROUP BY
 | no | 문제 | 풀이 | 메모 |
