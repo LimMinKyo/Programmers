@@ -88,6 +88,7 @@
 | 05 | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041?language=mysql) | [풀이](./Level%202/동명%20동물%20수%20찾기/solution.sql) |  |
 | 06 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql) | [풀이](./Level%202/가격대%20별%20상품%20개수%20구하기/solution.sql) |  |
 | 07 | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412?language=mysql) | [풀이](./Level%202/입양%20시각%20구하기(1)/solution.sql) |  |
+| 08 | [조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527?language=mysql) | [풀이](./Level%202/조건에%20맞는%20사원%20정보%20조회하기/solution.sql) |  |
 
 ### IS NULL
 | no | 문제 | 풀이 | 메모 |
