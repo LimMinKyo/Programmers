@@ -90,6 +90,7 @@
 | 07 | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412?language=mysql) | [풀이](./Level%202/입양%20시각%20구하기(1)/solution.sql) |  |
 | 08 | [조건에 맞는 사원 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284527?language=mysql) | [풀이](./Level%202/조건에%20맞는%20사원%20정보%20조회하기/solution.sql) |  |
 | 09 | [노선별 평균 역 사이 거리 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284531?language=mysql) | [풀이](./Level%202/노선별%20평균%20역%20사이%20거리%20조회하기/solution.sql) |  |
+| 10 | [물고기 종류 별 잡은 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/293257?language=mysql) | [풀이](./Level%202/물고기%20종류%20별%20잡은%20수%20구하기/solution.sql) |  |
 
 ### IS NULL
 | no | 문제 | 풀이 | 메모 |
