@@ -78,6 +78,7 @@
 | 56 | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897) | [풀이](./Level%200/코딩%20기초%20트레이닝/리스트%20자르기) |  |
 | 57 | [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896) | [풀이](./Level%200/코딩%20기초%20트레이닝/첫%20번째로%20나오는%20음수) |  |
 | 58 | [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20만들기%203) |  |
+| 59 | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894) | [풀이](./Level%200/코딩%20기초%20트레이닝/2의%20영역) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
