@@ -221,6 +221,7 @@
 | 52 | [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) | [풀이](./Level%201/명예의%20전당%20(1)) |  |
 | 53 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | [풀이](./Level%201/카드%20뭉치) |  |
 | 54 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [풀이](./Level%201/실패율) |  |
+| 55 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [풀이](./Level%201/크레인%20인형뽑기%20게임) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
