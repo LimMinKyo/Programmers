@@ -81,6 +81,7 @@
 | 59 | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894) | [풀이](./Level%200/코딩%20기초%20트레이닝/2의%20영역) |  |
 | 60 | [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20조각하기) |  |
 | 61 | [n 번째 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892) | [풀이](./Level%200/코딩%20기초%20트레이닝/n%20번째%20원소부터) |  |
+| 62 | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891) | [풀이](./Level%200/코딩%20기초%20트레이닝/순서%20바꾸기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
