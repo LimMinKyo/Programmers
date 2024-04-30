@@ -115,6 +115,7 @@
 | 05 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409?language=mysql) | [풀이](./Level%202/중성화%20여부%20파악하기/solution.sql) |  |
 | 06 | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529?language=mysql) | [풀이](./Level%202/카테고리%20별%20상품%20개수%20구하기/solution.sql) |  |
 | 07 | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414?language=mysql) | [풀이](./Level%202/DATETIME에서%20DATE로%20형%20변환/solution.sql) |  |
+| 08 | [연도 별 평균 미세먼지 농도 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530?language=mysql) | [풀이](./Level%202/연도%20별%20평균%20미세먼지%20농도%20조회하기/solution.sql) |  |
 
 ## Level 3
 
