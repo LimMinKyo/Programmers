@@ -1,13 +1,15 @@
 class Node:
     live = True
 
-    def __init__(self, prev, next, n):
+    def __init__(self, index, n):
+        prev = index - 1
+        next = index + 1
         self.prev = prev if prev >= 0 else None
         self.next = next if next < n else None
 
 
 def solution(n, k, cmd_list):
-    table = {i: Node(i - 1, i + 1, n) for i in range(n)}
+    table = {i: Node(i, n) for i in range(n)}
 
     now = k
 
