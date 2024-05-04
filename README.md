@@ -84,6 +84,7 @@
 | 62 | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891) | [풀이](./Level%200/코딩%20기초%20트레이닝/순서%20바꾸기) |  |
 | 63 | [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890) | [풀이](./Level%200/코딩%20기초%20트레이닝/왼쪽%20오른쪽) |  |
 | 64 | [n 번째 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889) | [풀이](./Level%200/코딩%20기초%20트레이닝/n%20번째%20원소까지) |  |
+| 65 | [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888) | [풀이](./Level%200/코딩%20기초%20트레이닝/n개%20간격의%20원소들) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
