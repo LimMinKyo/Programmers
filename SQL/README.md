@@ -116,6 +116,7 @@
 | 06 | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529?language=mysql) | [풀이](./Level%202/카테고리%20별%20상품%20개수%20구하기/solution.sql) |  |
 | 07 | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414?language=mysql) | [풀이](./Level%202/DATETIME에서%20DATE로%20형%20변환/solution.sql) |  |
 | 08 | [연도 별 평균 미세먼지 농도 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530?language=mysql) | [풀이](./Level%202/연도%20별%20평균%20미세먼지%20농도%20조회하기/solution.sql) |  |
+| 09 | [분기별 분화된 대장균의 개체 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299308?language=mysql) | [풀이](./Level%202/분기별%20분화된%20대장균의%20개체%20수%20구하기/solution.sql) |  |
 
 ## Level 3
 
