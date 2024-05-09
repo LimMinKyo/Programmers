@@ -87,6 +87,7 @@
 | 65 | [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888) | [풀이](./Level%200/코딩%20기초%20트레이닝/n개%20간격의%20원소들) |  |
 | 66 | [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887) | [풀이](./Level%200/코딩%20기초%20트레이닝/홀수%20vs%20짝수) |  |
 | 67 | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | [풀이](./Level%200/코딩%20기초%20트레이닝/5명씩) |  |
+| 68 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | [풀이](./Level%200/코딩%20기초%20트레이닝/할%20일%20목록) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
