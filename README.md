@@ -89,6 +89,7 @@
 | 67 | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | [풀이](./Level%200/코딩%20기초%20트레이닝/5명씩) |  |
 | 68 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | [풀이](./Level%200/코딩%20기초%20트레이닝/할%20일%20목록) |  |
 | 69 | [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | [풀이](./Level%200/코딩%20기초%20트레이닝/n보다%20커질%20때까지%20더하기) |  |
+| 70 | [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | [풀이](./Level%200/코딩%20기초%20트레이닝/수열과%20구간%20쿼리%201) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
