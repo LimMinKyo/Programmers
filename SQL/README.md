@@ -129,6 +129,11 @@
 | 04 | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139?language=mysql) | [풀이](./Level%203/대여%20횟수가%20많은%20자동차들의%20월별%20대여%20횟수%20구하기/solution.sql) |  |
 | 05 | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340?language=mysql) | [풀이](./Level%203/자동차%20대여%20기록에서%20대여중%20대여%20가능%20여부%20구분하기/solution.sql) |  |
 
+### IS NULL
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [업그레이드 할 수 없는 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273712?language=mysql) | [풀이](./Level%203/업그레이드%20할%20수%20없는%20아이템%20구하기/solution.sql) |  |
+
 ### JOIN
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
