@@ -283,6 +283,7 @@
 | 43 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [풀이](./Level%202/k진수에서%20소수%20개수%20구하기) |  |
 | 44 | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](./Level%202/[3차]%20압축) |  |
 | 45 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [풀이](./Level%202/행렬의%20곱셈) |  |
+| 46 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [풀이](./Level%202/오픈채팅방) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
