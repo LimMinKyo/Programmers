@@ -92,6 +92,7 @@
 | 70 | [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | [풀이](./Level%200/코딩%20기초%20트레이닝/수열과%20구간%20쿼리%201) |  |
 | 71 | [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | [풀이](./Level%200/코딩%20기초%20트레이닝/조건에%20맞게%20수열%20변환하기%201) |  |
 | 72 | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | [풀이](./Level%200/코딩%20기초%20트레이닝/조건에%20맞게%20수열%20변환하기%202) |  |
+| 73 | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880) | [풀이](./Level%200/코딩%20기초%20트레이닝/1로%20만들기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
