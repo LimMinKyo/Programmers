@@ -286,6 +286,7 @@
 | 44 | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [풀이](./Level%202/[3차]%20압축) |  |
 | 45 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [풀이](./Level%202/행렬의%20곱셈) |  |
 | 46 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [풀이](./Level%202/오픈채팅방) |  |
+| 47 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [풀이](./Level%202/메뉴%20리뉴얼) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
