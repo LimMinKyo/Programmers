@@ -1,15 +1,7 @@
 function solution(clothes) {
   const map = new Map();
 
-  for (const [cloth, type] of clothes) {
-    map.set(type, (map.get(type) || 0) + 1);
-  }
+  clothes.forEach(([cloth, kind]) => map.set(kind, (map.get(kind) || 0) + 1));
 
-  let answer = 1;
-
-  for (const count of map.values()) {
-    answer *= count + 1;
-  }
-
-  return answer - 1;
+  return [...map.values()].reduce((acc, count) => acc * (count + 1), 1) - 1;
 }
