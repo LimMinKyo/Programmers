@@ -1,28 +1,26 @@
 function solution(msg) {
-  const dict = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
+  const alphabet = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
+  const dict = {};
+
+  alphabet.forEach((char, index) => (dict[char] = index + 1));
 
   const answer = [];
 
-  const chars = [...msg];
-  let nextWord = "";
-  let index = 0;
+  while (true) {
+    const keys = Object.keys(dict);
 
-  while (chars.length > index) {
-    const currentWord = nextWord;
-    nextWord += chars[index];
-
-    if (dict.indexOf(nextWord) >= 0) {
-      index++;
-    } else {
-      const wordIndex = dict.indexOf(currentWord) + 1;
-      answer.push(wordIndex);
-      dict.push(nextWord);
-      nextWord = "";
+    if (keys.includes(msg)) {
+      answer.push(dict[msg]);
+      break;
     }
 
-    if (chars.length === index) {
-      const wordIndex = dict.indexOf(nextWord) + 1;
-      answer.push(wordIndex);
+    for (let i = 1; i <= keys.length + 1; i++) {
+      if (!keys.includes(msg.slice(0, i))) {
+        answer.push(dict[msg.slice(0, i - 1)]);
+        dict[msg.slice(0, i)] = keys.length + 1;
+        msg = msg.slice(i - 1);
+        break;
+      }
     }
   }
 
