@@ -93,6 +93,7 @@
 | 71 | [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | [풀이](./Level%200/코딩%20기초%20트레이닝/조건에%20맞게%20수열%20변환하기%201) |  |
 | 72 | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | [풀이](./Level%200/코딩%20기초%20트레이닝/조건에%20맞게%20수열%20변환하기%202) |  |
 | 73 | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880) | [풀이](./Level%200/코딩%20기초%20트레이닝/1로%20만들기) |  |
+| 74 | [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879) | [풀이](./Level%200/코딩%20기초%20트레이닝/길이에%20따른%20연산) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
@@ -176,6 +177,7 @@
 | 77 | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | [풀이](./Level%200/코딩테스트%20입문/직사각형%20넓이%20구하기) |  |
 | 78 | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | [풀이](./Level%200/코딩테스트%20입문/캐릭터의%20좌표) |  |
 | 79 | [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | [풀이](./Level%200/코딩테스트%20입문/최댓값%20만들기%20(2)) |  |
+| 80 | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [풀이](./Level%200/코딩테스트%20입문/다항식%20더하기) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
