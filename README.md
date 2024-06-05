@@ -95,6 +95,7 @@
 | 73 | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880) | [풀이](./Level%200/코딩%20기초%20트레이닝/1로%20만들기) |  |
 | 74 | [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879) | [풀이](./Level%200/코딩%20기초%20트레이닝/길이에%20따른%20연산) |  |
 | 75 | [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878) | [풀이](./Level%200/코딩%20기초%20트레이닝/원하는%20문자열%20찾기) |  |
+| 76 | [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877) | [풀이](./Level%200/코딩%20기초%20트레이닝/대문자로%20바꾸기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
