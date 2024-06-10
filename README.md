@@ -100,6 +100,7 @@
 | 78 | [배열에서 문자열 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열에서%20문자열%20대소문자%20변환하기) |  |
 | 79 | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | [풀이](./Level%200/코딩%20기초%20트레이닝/A%20강조하기) |  |
 | 80 | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | [풀이](./Level%200/코딩%20기초%20트레이닝/특정한%20문자를%20대문자로%20바꾸기) |  |
+| 81 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | [풀이](./Level%200/코딩%20기초%20트레이닝/특정%20문자열로%20끝나는%20가장%20긴%20부분%20문자열%20찾기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
