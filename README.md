@@ -105,6 +105,7 @@
 | 83 | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | [풀이](./Level%200/코딩%20기초%20트레이닝/ad%20제거하기) |  |
 | 84 | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | [풀이](./Level%200/코딩%20기초%20트레이닝/공백으로%20구분하기%201) |  |
 | 85 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868) | [풀이](./Level%200/코딩%20기초%20트레이닝/공백으로%20구분하기%202) |  |
+| 86 | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867) | [풀이](./Level%200/코딩%20기초%20트레이닝/x%20사이의%20개수) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
