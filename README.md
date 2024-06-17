@@ -104,6 +104,7 @@
 | 82 | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열이%20몇%20번%20등장하는지%20세기) |  |
 | 83 | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | [풀이](./Level%200/코딩%20기초%20트레이닝/ad%20제거하기) |  |
 | 84 | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | [풀이](./Level%200/코딩%20기초%20트레이닝/공백으로%20구분하기%201) |  |
+| 85 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868) | [풀이](./Level%200/코딩%20기초%20트레이닝/공백으로%20구분하기%202) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
