@@ -301,6 +301,7 @@
 | 45 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [풀이](./Level%202/행렬의%20곱셈) |  |
 | 46 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [풀이](./Level%202/오픈채팅방) |  |
 | 47 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [풀이](./Level%202/메뉴%20리뉴얼) |  |
+| 48 | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [풀이](./Level%202/미로%20탈출) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
