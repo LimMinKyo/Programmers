@@ -125,6 +125,7 @@
 |:--:|:--:|:--:|:--:|
 | 01 | [대장균들의 자식의 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299305?language=mysql) | [풀이](./Level%203/대장균들의%20자식의%20수%20구하기/solution.sql) |  |
 | 02 | [대장균의 크기에 따라 분류하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/299307?language=mysql) | [풀이](./Level%203/대장균의%20크기에%20따라%20분류하기%201/solution.sql) |  |
+| 03 | [대장균의 크기에 따라 분류하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/301649?language=mysql) | [풀이](./Level%203/대장균의%20크기에%20따라%20분류하기%202/solution.sql) |  |
 
 ### GROUP BY
 | no | 문제 | 풀이 | 메모 |
