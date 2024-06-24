@@ -106,6 +106,8 @@
 | 84 | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | [풀이](./Level%200/코딩%20기초%20트레이닝/공백으로%20구분하기%201) |  |
 | 85 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868) | [풀이](./Level%200/코딩%20기초%20트레이닝/공백으로%20구분하기%202) |  |
 | 86 | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867) | [풀이](./Level%200/코딩%20기초%20트레이닝/x%20사이의%20개수) |  |
+| 87 | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20잘라서%20정렬하기) |  |
+| 88 | [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865) | [풀이](./Level%200/코딩%20기초%20트레이닝/간단한%20식%20계산하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
