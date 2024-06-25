@@ -127,15 +127,21 @@
 | 02 | [대장균의 크기에 따라 분류하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/299307?language=mysql) | [풀이](./Level%203/대장균의%20크기에%20따라%20분류하기%201/solution.sql) |  |
 | 03 | [대장균의 크기에 따라 분류하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/301649?language=mysql) | [풀이](./Level%203/대장균의%20크기에%20따라%20분류하기%202/solution.sql) |  |
 
+### SUM, MAX, MIN
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261?language=mysql) | [풀이](./Level%203/물고기%20종류%20별%20대어%20찾기/solution.sql) |  |
+
+
 ### GROUP BY
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123?language=mysql) | [풀이](./Level%203/즐겨찾기가%20가장%20많은%20식당%20정보%20출력하기/solution.sql) |  |
 | 02 | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668?language=mysql) | [풀이](./Level%203/조건에%20맞는%20사용자와%20총%20거래금액%20조회하기/solution.sql) |  |
 | 03 | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855?language=mysql) | [풀이](./Level%203/카테고리%20별%20도서%20판매량%20집계하기/solution.sql) |  |
-| 04 | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139?language=mysql) | [풀이](./Level%203/대여%20횟수가%20많은%20자동차들의%20월별%20대여%20횟수%20구하기/solution.sql) |  |
-| 05 | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340?language=mysql) | [풀이](./Level%203/자동차%20대여%20기록에서%20대여중%20대여%20가능%20여부%20구분하기/solution.sql) |  |
-| 06 | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261?language=mysql) | [풀이](./Level%203/물고기%20종류%20별%20대어%20찾기/solution.sql) |  |
+| 04 | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340?language=mysql) | [풀이](./Level%203/자동차%20대여%20기록에서%20대여중%20대여%20가능%20여부%20구분하기/solution.sql) |  |
+| 05 | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139?language=mysql) | [풀이](./Level%203/대여%20횟수가%20많은%20자동차들의%20월별%20대여%20횟수%20구하기/solution.sql) |  |
+| 06 | [부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529?language=mysql) | [풀이](./Level%203/부서별%20평균%20연봉%20조회하기/solution.sql) |  |
 
 ### IS NULL
 | no | 문제 | 풀이 | 메모 |
