@@ -132,7 +132,6 @@
 |:--:|:--:|:--:|:--:|
 | 01 | [물고기 종류 별 대어 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/293261?language=mysql) | [풀이](./Level%203/물고기%20종류%20별%20대어%20찾기/solution.sql) |  |
 
-
 ### GROUP BY
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
@@ -142,6 +141,7 @@
 | 04 | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340?language=mysql) | [풀이](./Level%203/자동차%20대여%20기록에서%20대여중%20대여%20가능%20여부%20구분하기/solution.sql) |  |
 | 05 | [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139?language=mysql) | [풀이](./Level%203/대여%20횟수가%20많은%20자동차들의%20월별%20대여%20횟수%20구하기/solution.sql) |  |
 | 06 | [부서별 평균 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529?language=mysql) | [풀이](./Level%203/부서별%20평균%20연봉%20조회하기/solution.sql) |  |
+| 07 | [특정 조건을 만족하는 물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519?language=mysql) | [풀이](./Level%203/특정%20조건을%20만족하는%20물고기별%20수와%20최대%20길이%20구하기/solution.sql) |  |
 
 ### IS NULL
 | no | 문제 | 풀이 | 메모 |
