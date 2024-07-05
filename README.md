@@ -110,6 +110,7 @@
 | 88 | [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865) | [풀이](./Level%200/코딩%20기초%20트레이닝/간단한%20식%20계산하기) |  |
 | 89 | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20바꿔서%20찾기) |  |
 | 90 | [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863) | [풀이](./Level%200/코딩%20기초%20트레이닝/rny_string) |  |
+| 91 | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862) | [풀이](./Level%200/코딩%20기초%20트레이닝/세%20개의%20구분자) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
