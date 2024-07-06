@@ -111,6 +111,7 @@
 | 89 | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20바꿔서%20찾기) |  |
 | 90 | [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863) | [풀이](./Level%200/코딩%20기초%20트레이닝/rny_string) |  |
 | 91 | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862) | [풀이](./Level%200/코딩%20기초%20트레이닝/세%20개의%20구분자) |  |
+| 92 | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열의%20원소만큼%20추가하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
