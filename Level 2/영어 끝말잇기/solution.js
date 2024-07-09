@@ -1,21 +1,14 @@
 function solution(n, words) {
-  const passWords = [];
+  const usedWords = new Set();
+  let startChar = words[0][0];
 
-  for (let index = 0; index < words.length; index++) {
-    if (index === 0) {
-      passWords.push(words[index]);
-      continue;
+  for (let i = 0; i < words.length; i++) {
+    const word = words[i];
+    if (usedWords.has(word) || word[0] !== startChar) {
+      return [(i % n) + 1, Math.floor(i / n) + 1];
     }
-
-    if (passWords.includes(words[index])) {
-      return [(index % n) + 1, Math.floor(index / n) + 1];
-    }
-
-    if (passWords[passWords.length - 1].slice(-1) !== words[index][0]) {
-      return [(index % n) + 1, Math.floor(index / n) + 1];
-    }
-
-    passWords.push(words[index]);
+    usedWords.add(word);
+    startChar = word.at(-1);
   }
 
   return [0, 0];
