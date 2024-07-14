@@ -114,6 +114,7 @@
 | 92 | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열의%20원소만큼%20추가하기) |  |
 | 93 | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860) | [풀이](./Level%200/코딩%20기초%20트레이닝/빈%20배열에%20추가,%20삭제하기) |  |
 | 94 | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20만들기%206) |  |
+| 95 | [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858) | [풀이](./Level%200/코딩%20기초%20트레이닝/무작위로%20K개의%20수%20뽑기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
