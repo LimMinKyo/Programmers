@@ -329,3 +329,8 @@
 | 11 | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | [풀이](./Level%203/다단계%20칫솔%20판매) |  |
 | 12 | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | [풀이](./Level%203/양과%20늑대) |  |
 | 13 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [풀이](./Level%203/길%20찾기%20게임) |  |
+
+### Level 4
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [트리 트리오 중간값](https://school.programmers.co.kr/learn/courses/30/lessons/68937) | [풀이](./Level%204/트리%20트리오%20중간값) | [메모](https://jiyeoon.github.io/2021/01/07/tritrio/) |
