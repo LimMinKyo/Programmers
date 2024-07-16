@@ -39,7 +39,4 @@ def solution(n, edges):
     leaf = bfs(tree, 1)
     father = bfs(tree, leaf[-1][0])
 
-    if leaf[-1][1] == leaf[-2][1]:
-        return father[-1][1]
-    else:
-        return father[-2][1]
+    return father[-1][1] if leaf[-1][1] == leaf[-2][1] else father[-2][1]
