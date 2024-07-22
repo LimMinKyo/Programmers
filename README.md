@@ -117,6 +117,7 @@
 | 95 | [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858) | [풀이](./Level%200/코딩%20기초%20트레이닝/무작위로%20K개의%20수%20뽑기) |  |
 | 96 | [배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열의%20길이를%202의%20거듭제곱으로%20만들기) |  |
 | 97 | [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20비교하기) |  |
+| 98 | [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20묶기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
