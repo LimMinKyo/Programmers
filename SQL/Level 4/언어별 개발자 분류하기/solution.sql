@@ -1,0 +1,54 @@
+WITH SKILL_TABLE AS (
+    SELECT
+        SUM(CODE) AS TOTAL,
+        'FRONT' AS SKILL
+    FROM
+        SKILLCODES
+    WHERE
+        CATEGORY = 'Front End'
+    UNION ALL
+    SELECT
+        CODE AS TOTAL,
+        'CS' AS SKILL
+    FROM
+        SKILLCODES
+    WHERE
+        NAME = 'C#'
+    UNION ALL
+    SELECT
+        CODE AS TOTAL,
+        'Python' AS SKILL
+    FROM
+        SKILLCODES
+    WHERE
+        NAME = 'Python'
+),
+SKILL_GROUP AS (
+    SELECT
+        MAX(CASE WHEN SKILL = 'FRONT' THEN TOTAL END) AS FRONT,
+        MAX(CASE WHEN SKILL = 'CS' THEN TOTAL END) AS CS,
+        MAX(CASE WHEN SKILL = 'PYTHON' THEN TOTAL END) AS PYTHON
+    FROM
+        SKILL_TABLE
+),
+DEVELOPERS_GRADE AS (
+    SELECT
+        CASE
+            WHEN SKILL_CODE & FRONT AND SKILL_CODE & PYTHON THEN 'A'
+            WHEN SKILL_CODE & CS THEN 'B'
+            WHEN SKILL_CODE & FRONT THEN 'C'
+        END AS GRADE,
+        ID,
+        EMAIL
+    FROM
+        DEVELOPERS,
+        SKILL_GROUP
+)
+SELECT
+    *
+FROM
+    DEVELOPERS_GRADE
+WHERE
+    GRADE IS NOT NULL
+ORDER BY
+    GRADE, ID

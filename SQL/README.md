@@ -181,6 +181,7 @@
 | 03 | [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532?language=mysql) | [풀이](./Level%204/년,%20월,%20성별%20별%20상품%20구매%20회원%20수%20구하기/solution.sql) |  |
 | 04 | [입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413?language=mysql) | [풀이](./Level%204/입양%20시각%20구하기(2)/solution.sql) |  |
 | 05 | [연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284528?language=mysql) | [풀이](./Level%204/연간%20평가점수에%20해당하는%20평가%20등급%20및%20성과금%20조회하기/solution.sql) |  |
+| 06 | [언어별 개발자 분류하기](https://school.programmers.co.kr/learn/courses/30/lessons/276036?language=mysql) | [풀이](./Level%204/언어별%20개발자%20분류하기/solution.sql) |  |
 
 ### JOIN
 | no | 문제 | 풀이 | 메모 |
