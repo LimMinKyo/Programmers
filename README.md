@@ -119,6 +119,7 @@
 | 97 | [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열%20비교하기) |  |
 | 98 | [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20묶기) |  |
 | 99 | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열의%20길이에%20따라%20다른%20연산하기) |  |
+| 100 | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | [풀이](./Level%200/코딩%20기초%20트레이닝/뒤에서%205등까지) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
