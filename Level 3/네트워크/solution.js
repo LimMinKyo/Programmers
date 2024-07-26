@@ -1,23 +1,23 @@
 function solution(n, computers) {
+  let answer = 0;
   const visited = Array(n).fill(false);
-  let count = 0;
 
-  const dfs = (i) => {
-    visited[i] = true;
-
-    for (let j = 0; j < n; j++) {
-      if (computers[i][j] && !visited[j]) {
-        dfs(j);
-      }
+  visited.forEach((isVisited, computer) => {
+    if (!isVisited) {
+      dfs(computer, computers, visited);
+      answer++;
     }
-  };
+  });
 
-  for (let i = 0; i < n; i++) {
-    if (!visited[i]) {
-      dfs(i);
-      count++;
+  return answer;
+}
+
+function dfs(computer, computers, visited) {
+  visited[computer] = true;
+
+  computers[computer].forEach((isConnected, currentComputer) => {
+    if (isConnected && !visited[currentComputer]) {
+      dfs(currentComputer, computers, visited);
     }
-  }
-
-  return count;
+  });
 }
