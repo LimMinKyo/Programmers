@@ -121,6 +121,7 @@
 | 99 | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열의%20길이에%20따라%20다른%20연산하기) |  |
 | 100 | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | [풀이](./Level%200/코딩%20기초%20트레이닝/뒤에서%205등까지) |  |
 | 101 | [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | [풀이](./Level%200/코딩%20기초%20트레이닝/뒤에서%205등%20위로) |  |
+| 102 | [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851) | [풀이](./Level%200/코딩%20기초%20트레이닝/전국%20대회%20선발%20고사) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
