@@ -1,4 +1,4 @@
-import heapq
+from collections import deque
 
 
 def build_graph(N, road):
@@ -16,17 +16,16 @@ def solution(N, road, K):
     distances = [float("inf")] * (N + 1)
     distances[1] = 0
 
-    heap = []
-    heapq.heappush(heap, (0, 1))
+    queue = deque([(1, 0)])
 
-    while heap:
-        node_cost, node = heapq.heappop(heap)
+    while queue:
+        node, node_cost = queue.popleft()
 
         for next_node, next_node_cost in graph[node]:
             cost = node_cost + next_node_cost
 
             if cost < distances[next_node]:
                 distances[next_node] = cost
-                heapq.heappush(heap, (cost, next_node))
+                queue.append((next_node, cost))
 
     return sum(1 for distance in distances if distance <= K)
