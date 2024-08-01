@@ -23,7 +23,7 @@ def is_should_update(x, y, direction, new_cost, visited):
 def solution(board):
     N = len(board)
     directions = [(0, -1), (-1, 0), (0, 1), (1, 0)]
-    visited = [[[0 for _ in range(4)] for _ in range(N)] for _ in range(N)]
+    visited = [[[0 for _ in range(len(directions))] for _ in range(N)] for _ in range(N)]
     queue = deque([(0, 0, -1, 0)])
 
     answer = float("inf")
