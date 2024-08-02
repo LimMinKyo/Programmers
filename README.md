@@ -296,7 +296,7 @@
 | 24 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [풀이](./Level%202/H-Index) | [메모](./Level%202/H-Index/memo.md) |
 | 25 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [풀이](./Level%202/소수%20찾기) | [메모](https://han-joon-hyeok.github.io/posts/programmers-find-prime-number-level2/) |
 | 26 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [풀이](./Level%202/피로도) |  |
-| 27 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [풀이](./Level%202/전력망을%20둘로%20나누기) | [메모](https://school.programmers.co.kr/questions/53200) |
+| 27 | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [풀이](./Level%202/전력망을%20둘로%20나누기) |  |
 | 28 | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [풀이](./Level%202/모음%20사전) | [메모](./Level%202/모음%20사전/memo.md) |
 | 29 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [풀이](./Level%202/기능개발) |  |
 | 30 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [풀이](./Level%202/프로세스) |  |

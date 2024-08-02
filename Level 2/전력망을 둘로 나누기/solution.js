@@ -1,40 +1,51 @@
 function solution(n, wires) {
+  const graph = new Graph(n, wires);
+
   let answer = Infinity;
 
-  wires.forEach(([eraseFrom, eraseTo]) => {
-    const map = new Map();
+  wires.forEach(([a, b]) => {
+    graph.cutWire(a, b);
 
-    wires.forEach(([from, to]) => {
-      if (from === eraseFrom && to === eraseTo) {
-        return;
-      }
+    countA = graph.dfs(a, b);
+    countB = n - countA;
 
-      map.set(from, map.get(from) ? [...map.get(from), to] : [to]);
-      map.set(to, map.get(to) ? [...map.get(to), from] : [from]);
-    });
+    answer = Math.min(answer, Math.abs(countA - countB));
 
-    const queue = [1];
-    const visited = [];
-
-    while (queue.length !== 0) {
-      const index = queue.pop();
-
-      if (visited.includes(index)) {
-        continue;
-      }
-
-      if (map.get(index)) {
-        queue.push(...map.get(index));
-      }
-
-      visited.push(index);
-    }
-
-    const tree1 = n - visited.length;
-    const tree2 = visited.length;
-
-    answer = Math.min(answer, Math.abs(tree1 - tree2));
+    graph.connectWire(a, b);
   });
 
   return answer;
+}
+
+class Graph {
+  constructor(n, wires) {
+    this.graph = Array.from({ length: n + 1 }, () => []);
+
+    wires.forEach(([a, b]) => {
+      this.graph[a].push(b);
+      this.graph[b].push(a);
+    });
+  }
+
+  cutWire(a, b) {
+    this.graph[a] = this.graph[a].filter((item) => item !== b);
+    this.graph[b] = this.graph[b].filter((item) => item !== a);
+  }
+
+  connectWire(a, b) {
+    this.graph[a].push(b);
+    this.graph[b].push(a);
+  }
+
+  dfs(node, parent) {
+    let count = 1;
+
+    this.graph[node].forEach((child) => {
+      if (child !== parent) {
+        count += this.dfs(child, node);
+      }
+    });
+
+    return count;
+  }
 }
