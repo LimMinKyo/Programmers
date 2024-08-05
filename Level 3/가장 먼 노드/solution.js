@@ -1,31 +1,29 @@
 function solution(n, edge) {
-  const node = new Map();
+  const graph = Array.from({ length: n + 1 }, () => []);
 
-  edge.forEach(([n1, n2]) => {
-    node.get(n1) ? node.get(n1).push(n2) : node.set(n1, [n2]);
-    node.get(n2) ? node.get(n2).push(n1) : node.set(n2, [n1]);
+  edge.forEach(([a, b]) => {
+    graph[a].push(b);
+    graph[b].push(a);
   });
 
-  let answer = 0;
-  const queue = [1];
-  while (true) {
-    [...queue].forEach((item) => {
-      queue.shift();
+  const queue = [[1, 0]];
+  const distances = Array(n + 1).fill(0);
+  const visited = Array(n + 1).fill(false);
+  visited[1] = true;
 
-      if (node.has(item)) {
-        node.get(item).forEach((num) => {
-          if (node.has(num)) {
-            queue.push(num);
-          }
-        });
-        node.delete(item);
+  while (queue.length) {
+    const [node, distance] = queue.shift();
+    distances[node] = distance;
+
+    graph[node].forEach((nextNode) => {
+      if (!visited[nextNode]) {
+        queue.push([nextNode, distance + 1]);
+        visited[nextNode] = true;
       }
     });
-
-    if (!node.size) {
-      return answer;
-    }
-
-    answer = node.size;
   }
+
+  const maxDistance = Math.max(...distances);
+
+  return distances.filter((distance) => distance === maxDistance).length;
 }
