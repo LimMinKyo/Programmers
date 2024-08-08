@@ -339,6 +339,7 @@
 | 12 | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | [풀이](./Level%203/양과%20늑대) |  |
 | 13 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [풀이](./Level%203/길%20찾기%20게임) |  |
 | 14 | [[카카오 인턴] 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | [풀이](./Level%203/[카카오%20인턴]%20경주로%20건설) |  |
+| 15 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | [풀이](./Level%203/순위) | [메모](https://velog.io/@narastro/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%88%9C%EC%9C%84-Python) |
 
 ### Level 4
 | no | 문제 | 풀이 | 메모 |
