@@ -342,6 +342,7 @@
 | 13 | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [풀이](./Level%203/길%20찾기%20게임) |  |
 | 14 | [[카카오 인턴] 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | [풀이](./Level%203/[카카오%20인턴]%20경주로%20건설) |  |
 | 15 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | [풀이](./Level%203/순위) | [메모](https://velog.io/@narastro/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%88%9C%EC%9C%84-Python) |
+| 16 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [풀이](./Level%203/합승%20택시%20요금) | [메모](https://velog.io/@ggb05224/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%ED%95%A9%EC%8A%B9-%ED%83%9D%EC%8B%9C-%EC%9A%94%EA%B8%88-python) |
 
 ### Level 4
 | no | 문제 | 풀이 | 메모 |
