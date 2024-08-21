@@ -126,6 +126,7 @@
 | 104 | [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열%20정수의%20합) |  |
 | 105 | [문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열을%20정수로%20변환하기) |  |
 | 106 | [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847) | [풀이](./Level%200/코딩%20기초%20트레이닝/0%20떼기) |  |
+| 107 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846) | [풀이](./Level%200/코딩%20기초%20트레이닝/두%20수의%20합) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
