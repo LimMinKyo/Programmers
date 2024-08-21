@@ -191,6 +191,7 @@
 | 03 | [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117?language=mysql) | [풀이](./Level%204/5월%20식품들의%20총매출%20조회하기/solution.sql) |  |
 | 04 | [그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124?language=mysql) | [풀이](./Level%204/그룹별%20조건에%20맞는%20식당%20목록%20출력하기/solution.sql) |  |
 | 05 | [보호소에서 중성화한 동물](https://school.programmers.co.kr/learn/courses/30/lessons/59045?language=mysql) | [풀이](./Level%204/보호소에서%20중성화한%20동물/solution.sql) |  |
+| 06 | [FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035?language=mysql) | [풀이](./Level%204/FrontEnd%20개발자%20찾기/solution.sql) |  |
 
 ### String, Date
 | no | 문제 | 풀이 | 메모 |
