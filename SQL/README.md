@@ -6,6 +6,7 @@
 - [Level 2](#level-2)
 - [Level 3](#level-3)
 - [Level 4](#level-4)
+- [Level 5](#level-5)
 
 ## Level 1
 
@@ -198,3 +199,10 @@
 |:--:|:--:|:--:|:--:|
 | 01 | [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141?language=mysql) | [풀이](./Level%204/자동차%20대여%20기록%20별%20대여%20금액%20구하기/solution.sql) |  |
 | 02 | [취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204?language=mysql) | [풀이](./Level%204/취소되지%20않은%20진료%20예약%20조회하기/solution.sql) |  |
+
+## Level 5
+
+### SELECT
+| no | 문제 | 풀이 | 메모 |
+|:--:|:--:|:--:|:--:|
+| 01 | [멸종위기의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301651?language=mysql) | [풀이](./Level%205/멸종위기의%20대장균%20찾기/solution.sql) |  |

@@ -12,6 +12,7 @@
   - [Level 2](./SQL/README.md#level-2)
   - [Level 3](./SQL/README.md#level-3)
   - [Level 4](./SQL/README.md#level-4)
+  - [Level 5](./SQL/README.md#level-5)
 
 ## Algorithm
 
