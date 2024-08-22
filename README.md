@@ -128,6 +128,7 @@
 | 106 | [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847) | [풀이](./Level%200/코딩%20기초%20트레이닝/0%20떼기) |  |
 | 107 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846) | [풀이](./Level%200/코딩%20기초%20트레이닝/두%20수의%20합) |  |
 | 108 | [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845) | [풀이](./Level%200/코딩%20기초%20트레이닝/문자열로%20변환) |  |
+| 109 | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열의%20원소%20삭제하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
