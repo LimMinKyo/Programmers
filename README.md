@@ -134,6 +134,7 @@
 | 109 | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | [풀이](./Level%200/코딩%20기초%20트레이닝/배열의%20원소%20삭제하기) |  |
 | 110 | [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843) | [풀이](./Level%200/코딩%20기초%20트레이닝/부분%20문자열인지%20확인하기) |  |
 | 111 | [부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842) | [풀이](./Level%200/코딩%20기초%20트레이닝/부분%20문자열) |  |
+| 112 | [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | [풀이](./Level%200/코딩%20기초%20트레이닝/꼬리%20문자열) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
