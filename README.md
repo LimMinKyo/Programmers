@@ -137,6 +137,7 @@
 | 112 | [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | [풀이](./Level%200/코딩%20기초%20트레이닝/꼬리%20문자열) |  |
 | 113 | [정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840) | [풀이](./Level%200/코딩%20기초%20트레이닝/정수%20찾기) |  |
 | 114 | [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | [풀이](./Level%200/코딩%20기초%20트레이닝/주사위%20게임%201) |  |
+| 115 | [날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838) | [풀이](./Level%200/코딩%20기초%20트레이닝/날짜%20비교하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
