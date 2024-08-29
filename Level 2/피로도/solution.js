@@ -1,39 +1,22 @@
-const getPermutations = (arr, willSelectNumLength) => {
-  const result = [];
-
-  if (willSelectNumLength === 1) {
-    return arr.map((value) => [value]);
-  }
-
-  arr.forEach((fixed, index, origin) => {
-    const rest = [...origin.slice(0, index), ...origin.slice(index + 1)];
-    const permutations = getPermutations(rest, willSelectNumLength - 1);
-    const combined = permutations.map((permutation) => [fixed, ...permutation]);
-    result.push(...combined);
-  });
-
-  return result;
-};
-
 function solution(k, dungeons) {
-  const result = [];
+  const visited = Array(dungeons.length).fill(false);
+  const answer = dfs(k, 0, dungeons, visited);
+  return answer;
+}
 
-  const permutations = getPermutations(dungeons, dungeons.length);
+function dfs(k, count, dungeons, visited) {
+  let answer = count;
 
-  permutations.forEach((permutation) => {
-    let count = 0;
-    let restFatigue = k;
-
-    permutation.forEach(([minFatigue, fatigue]) => {
-      if (restFatigue < minFatigue || restFatigue < fatigue) {
-        return;
-      }
-      restFatigue -= fatigue;
-      count++;
-    });
-
-    result.push(count);
+  dungeons.forEach((dungeon, index) => {
+    if (k >= dungeon[0] && !visited[index]) {
+      visited[index] = true;
+      answer = Math.max(
+        answer,
+        dfs(k - dungeon[1], count + 1, dungeons, visited)
+      );
+      visited[index] = false;
+    }
   });
 
-  return Math.max(...result);
+  return answer;
 }
