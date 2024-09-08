@@ -141,6 +141,7 @@
 | 116 | [커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837) | [풀이](./Level%200/코딩%20기초%20트레이닝/커피%20심부름) |  |
 | 117 | [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836) | [풀이](./Level%200/코딩%20기초%20트레이닝/그림%20확대) |  |
 | 118 | [조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835) | [풀이](./Level%200/코딩%20기초%20트레이닝/조건에%20맞게%20수열%20변환하기%203) |  |
+| 119 | [l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834) | [풀이](./Level%200/코딩%20기초%20트레이닝/l로%20만들기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
