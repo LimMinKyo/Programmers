@@ -362,6 +362,7 @@
 | 15 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | [풀이](./Level%203/순위) | [메모](https://velog.io/@narastro/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%88%9C%EC%9C%84-Python) |
 | 16 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [풀이](./Level%203/합승%20택시%20요금) | [메모](./Level%203/합승%20택시%20요금/memo.md) |
 | 17 | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | [풀이](./Level%203/외벽%20점검) |  |
+| 18 | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | [풀이](./Level%203/사라지는%20발판) |  |
 
 ### Level 4
 | no | 문제 | 풀이 | 메모 |
