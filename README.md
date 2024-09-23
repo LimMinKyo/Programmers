@@ -143,6 +143,7 @@
 | 118 | [조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835) | [풀이](./Level%200/코딩%20기초%20트레이닝/조건에%20맞게%20수열%20변환하기%203) |  |
 | 119 | [l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834) | [풀이](./Level%200/코딩%20기초%20트레이닝/l로%20만들기) |  |
 | 120 | [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833) | [풀이](./Level%200/코딩%20기초%20트레이닝/특별한%20이차원%20배열%201) |  |
+| 121 | [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | [풀이](./Level%200/코딩%20기초%20트레이닝/정수를%20나선형으로%20배치하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
