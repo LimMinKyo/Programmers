@@ -144,6 +144,7 @@
 | 119 | [l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834) | [풀이](./Level%200/코딩%20기초%20트레이닝/l로%20만들기) |  |
 | 120 | [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833) | [풀이](./Level%200/코딩%20기초%20트레이닝/특별한%20이차원%20배열%201) |  |
 | 121 | [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | [풀이](./Level%200/코딩%20기초%20트레이닝/정수를%20나선형으로%20배치하기) |  |
+| 122 | [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | [풀이](./Level%200/코딩%20기초%20트레이닝/특별한%20이차원%20배열%202) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
