@@ -3,7 +3,5 @@ fun main(args: Array<String>) {
     val str = input[0]
     val n = input[1].toInt()
 
-    repeat(n) {
-        print(str)
-    }
+    println(str.repeat(n))
 }
