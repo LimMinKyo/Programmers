@@ -344,6 +344,7 @@
 | 49 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | [풀이](./Level%202/배달) |  |
 | 50 | [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | [풀이](./Level%202/N-Queen) |  |
 | 51 | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [풀이](./Level%202/양궁대회) |  |
+| 52 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [풀이](./Level%202/튜플) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
