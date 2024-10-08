@@ -372,6 +372,7 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [트리 트리오 중간값](https://school.programmers.co.kr/learn/courses/30/lessons/68937) | [풀이](./Level%204/트리%20트리오%20중간값) | [메모](https://jiyeoon.github.io/2021/01/07/tritrio/) |
+| 02 | [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050) | [풀이](./Level%204/지형%20이동) |  |
 
 ### Level 5
 | no | 문제 | 풀이 | 메모 |
