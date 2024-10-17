@@ -1,18 +1,12 @@
 function solution(s) {
-  let convertCount = 0;
-  let removeZeroCount = 0;
+  let countTransform = 0;
+  let countZero = 0;
 
   while (s !== "1") {
-    const removedSLength = s.split("").filter((num) => {
-      if (num === "0") {
-        removeZeroCount++;
-        return false;
-      }
-      return true;
-    }).length;
-    s = removedSLength.toString(2);
-    convertCount++;
+    countTransform++;
+    countZero += s.split("").filter((num) => num === "0").length;
+    s = s.replaceAll("0", "").length.toString(2);
   }
 
-  return [convertCount, removeZeroCount];
+  return [countTransform, countZero];
 }
