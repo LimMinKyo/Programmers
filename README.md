@@ -145,6 +145,8 @@
 | 120 | [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833) | [풀이](./Level%200/코딩%20기초%20트레이닝/특별한%20이차원%20배열%201) |  |
 | 121 | [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | [풀이](./Level%200/코딩%20기초%20트레이닝/정수를%20나선형으로%20배치하기) |  |
 | 122 | [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | [풀이](./Level%200/코딩%20기초%20트레이닝/특별한%20이차원%20배열%202) |  |
+| 123 | [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830) | [풀이](./Level%200/코딩%20기초%20트레이닝/정사각형으로%20만들기) |  |
+| 124 | [이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829) | [풀이](./Level%200/코딩%20기초%20트레이닝/이차원%20배열%20대각선%20순회하기) |  |
 
 #### 코딩테스트 입문
 | no | 문제 | 풀이 | 메모 |
@@ -229,6 +231,11 @@
 | 78 | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | [풀이](./Level%200/코딩테스트%20입문/캐릭터의%20좌표) |  |
 | 79 | [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | [풀이](./Level%200/코딩테스트%20입문/최댓값%20만들기%20(2)) |  |
 | 80 | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [풀이](./Level%200/코딩테스트%20입문/다항식%20더하기) |  |
+| 81 | [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | [풀이](./Level%200/코딩테스트%20입문/숨어있는%20숫자의%20덧셈%20(2)) |  |
+| 82 | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | [풀이](./Level%200/코딩테스트%20입문/안전지대) |  |
+| 83 | [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | [풀이](./Level%200/코딩테스트%20입문/삼각형의%20완성조건%20(2)) |  |
+| 84 | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [풀이](./Level%200/코딩테스트%20입문/외계어%20사전) |  |
+| 85 | [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | [풀이](./Level%200/코딩테스트%20입문/저주의%20숫자%203) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
