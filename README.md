@@ -236,6 +236,7 @@
 | 83 | [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | [풀이](./Level%200/코딩테스트%20입문/삼각형의%20완성조건%20(2)) |  |
 | 84 | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [풀이](./Level%200/코딩테스트%20입문/외계어%20사전) |  |
 | 85 | [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | [풀이](./Level%200/코딩테스트%20입문/저주의%20숫자%203) |  |
+| 86 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [풀이](./Level%200/코딩테스트%20입문/평행) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
