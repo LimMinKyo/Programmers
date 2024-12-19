@@ -237,6 +237,7 @@
 | 84 | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [풀이](./Level%200/코딩테스트%20입문/외계어%20사전) |  |
 | 85 | [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | [풀이](./Level%200/코딩테스트%20입문/저주의%20숫자%203) |  |
 | 86 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [풀이](./Level%200/코딩테스트%20입문/평행) |  |
+| 87 | [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | [풀이](./Level%200/코딩테스트%20입문/겹치는%20선분의%20길이) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
