@@ -240,6 +240,7 @@
 | 87 | [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | [풀이](./Level%200/코딩테스트%20입문/겹치는%20선분의%20길이) |  |
 | 88 | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | [풀이](./Level%200/코딩테스트%20입문/유한소수%20판별하기) |  |
 | 89 | [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | [풀이](./Level%200/코딩테스트%20입문/특이한%20정렬) |  |
+| 90 | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | [풀이](./Level%200/코딩테스트%20입문/등수%20매기기) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
