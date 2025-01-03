@@ -245,6 +245,7 @@
 | 92 | [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883) | [풀이](./Level%200/코딩테스트%20입문/로그인%20성공) |  |
 | 93 | [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) | [풀이](./Level%200/코딩테스트%20입문/치킨%20쿠폰) |  |
 | 94 | [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885) | [풀이](./Level%200/코딩테스트%20입문/이진수%20더하기) |  |
+| 95 | [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [풀이](./Level%200/코딩테스트%20입문/A로%20B%20만들기) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
