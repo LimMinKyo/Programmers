@@ -247,6 +247,7 @@
 | 94 | [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885) | [풀이](./Level%200/코딩테스트%20입문/이진수%20더하기) |  |
 | 95 | [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [풀이](./Level%200/코딩테스트%20입문/A로%20B%20만들기) |  |
 | 96 | [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887) | [풀이](./Level%200/코딩테스트%20입문/k의%20개수) |  |
+| 97 | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | [풀이](./Level%200/코딩테스트%20입문/문자열%20밀기) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
