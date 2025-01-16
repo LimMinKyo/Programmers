@@ -250,6 +250,7 @@
 | 97 | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | [풀이](./Level%200/코딩테스트%20입문/문자열%20밀기) |  |
 | 98 | [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) | [풀이](./Level%200/코딩테스트%20입문/종이%20자르기) |  |
 | 99 | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | [풀이](./Level%200/코딩테스트%20입문/연속된%20수의%20합) |  |
+| 100 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | [풀이](./Level%200/코딩테스트%20입문/다음에%20올%20숫자) |  |
 
 ### Level 1
 | no | 문제 | 풀이 | 메모 |
