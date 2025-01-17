@@ -311,6 +311,7 @@
 | 54 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [풀이](./Level%201/실패율) |  |
 | 55 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [풀이](./Level%201/크레인%20인형뽑기%20게임) |  |
 | 56 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [풀이](./Level%201/신고%20결과%20받기) |  |
+| 57 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [풀이](./Level%201/기사단원의%20무기) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
