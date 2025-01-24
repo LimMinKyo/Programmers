@@ -313,6 +313,7 @@
 | 56 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [풀이](./Level%201/신고%20결과%20받기) |  |
 | 57 | [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [풀이](./Level%201/기사단원의%20무기) |  |
 | 58 | [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) | [풀이](./Level%201/2016년) |  |
+| 59 | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [풀이](./Level%201/과일%20장수) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
