@@ -316,6 +316,7 @@
 | 59 | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [풀이](./Level%201/과일%20장수) |  |
 | 60 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) | [풀이](./Level%201/소수%20찾기) |  |
 | 61 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | [풀이](./Level%201/소수%20만들기) |  |
+| 62 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | [풀이](./Level%201/덧칠하기) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
