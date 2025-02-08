@@ -318,6 +318,7 @@
 | 61 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) | [풀이](./Level%201/소수%20만들기) |  |
 | 62 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | [풀이](./Level%201/덧칠하기) |  |
 | 63 | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | [풀이](./Level%201/옹알이%20(2)) |  |
+| 64 | [[PCCE 기출문제] 9번 / 지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199) | [풀이](./Level%201/지폐%20접기) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
