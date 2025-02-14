@@ -1,35 +1,21 @@
 function solution(dartResult) {
+  const bonusMap = { S: 1, D: 2, T: 3 };
+  const optionMap = { "*": 2, "#": -1, undefined: 1 };
+
+  const darts = dartResult.match(/(\d+[SDT][*#]?)/g).map((dart) => {
+    const [_, score, bonus, option] = dart.match(/(^\d{1,})(S|D|T)(\*|#)?/);
+    return [score, bonus, option];
+  });
+
   const scores = [];
 
-  dartResult
-    .split(/([0-9]+[^0-9]+)/g)
-    .filter(Boolean)
-    .forEach((score, index) => {
-      const num = +score.replace(/\D/g, "");
+  darts.forEach(([score, bonus, option], index) => {
+    if (option === "*" && index > 0) {
+      scores[index - 1] *= 2;
+    }
 
-      if (score.includes("S")) {
-        scores.push(num);
-      }
-
-      if (score.includes("D")) {
-        scores.push(num ** 2);
-      }
-
-      if (score.includes("T")) {
-        scores.push(num ** 3);
-      }
-
-      if (score.includes("*")) {
-        if (scores[index - 1]) {
-          scores[index - 1] = scores[index - 1] * 2;
-        }
-        scores[index] = scores[index] * 2;
-      }
-
-      if (score.includes("#")) {
-        scores[index] = scores[index] * -1;
-      }
-    });
+    scores.push(score ** bonusMap[bonus] * optionMap[option]);
+  });
 
   return scores.reduce((acc, cur) => acc + cur, 0);
 }
