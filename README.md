@@ -320,6 +320,7 @@
 | 63 | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | [풀이](./Level%201/옹알이%20(2)) |  |
 | 64 | [[PCCE 기출문제] 9번 / 지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199) | [풀이](./Level%201/지폐%20접기) |  |
 | 65 | [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | [풀이](./Level%201/[1차]%20다트%20게임) |  |
+| 66 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [풀이](./Level%201/로또의%20최고%20순위와%20최저%20순위) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
