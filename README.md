@@ -322,6 +322,7 @@
 | 65 | [[1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | [풀이](./Level%201/[1차]%20다트%20게임) |  |
 | 66 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [풀이](./Level%201/로또의%20최고%20순위와%20최저%20순위) |  |
 | 67 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [풀이](./Level%201/문자열%20나누기) |  |
+| 68 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [풀이](./Level%201/둘만의%20암호) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
