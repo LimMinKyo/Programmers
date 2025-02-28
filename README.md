@@ -324,6 +324,7 @@
 | 67 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [풀이](./Level%201/문자열%20나누기) |  |
 | 68 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [풀이](./Level%201/둘만의%20암호) |  |
 | 69 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | [풀이](./Level%201/대충%20만든%20자판) |  |
+| 70 | [[PCCE 기출문제] 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) | [풀이](./Level%201/이웃한%20칸) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
