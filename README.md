@@ -325,6 +325,7 @@
 | 68 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [풀이](./Level%201/둘만의%20암호) |  |
 | 69 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | [풀이](./Level%201/대충%20만든%20자판) |  |
 | 70 | [[PCCE 기출문제] 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) | [풀이](./Level%201/이웃한%20칸) |  |
+| 71 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [풀이](./Level%201/숫자%20짝꿍) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
