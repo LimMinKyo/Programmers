@@ -328,6 +328,7 @@
 | 71 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [풀이](./Level%201/숫자%20짝꿍) |  |
 | 72 | [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | [풀이](./Level%201/햄버거%20만들기) |  |
 | 73 | [[PCCE 기출문제] 10번 / 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) | [풀이](./Level%201/데이터%20분석) |  |
+| 74 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [풀이](./Level%201/성격%20유형%20검사하기) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
