@@ -332,6 +332,7 @@
 | 75 | [[카카오 인턴] 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [풀이](./Level%201/[카카오%20인턴]%20키패드%20누르기) |  |
 | 76 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [풀이](./Level%201/신규%20아이디%20추천) |  |
 | 77 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [풀이](./Level%201/바탕화면%20정리) |  |
+| 78 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [풀이](./Level%201/개인정보%20수집%20유효기간) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
