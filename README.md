@@ -335,6 +335,7 @@
 | 78 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [풀이](./Level%201/개인정보%20수집%20유효기간) |  |
 | 79 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | [풀이](./Level%201/달리기%20경주) |  |
 | 80 | [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) | [풀이](./Level%201/유연근무제) |  |
+| 81 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [풀이](./Level%201/공원%20산책) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
