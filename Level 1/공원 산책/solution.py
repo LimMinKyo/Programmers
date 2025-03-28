@@ -13,7 +13,7 @@ def solution(park, routes):
         direction, distance = route.split(" ")
         x, y = robot_dog
         dx, dy = direction_map[direction]
-        nx, ny = 0, 0
+        nx, ny = x, y
         is_valid_route = True
 
         for i in range(1, int(distance) + 1):
