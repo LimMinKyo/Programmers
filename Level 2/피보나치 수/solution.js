@@ -1,14 +1,9 @@
 function solution(n) {
-  let first = 0;
-  let second = 1;
-  let nTarget = 0;
+  const fibonacci = [0, 1];
 
   for (let i = 2; i <= n; i++) {
-    nTarget = (first + second) % 1234567;
-
-    first = second;
-    second = nTarget;
+    fibonacci.push((fibonacci[i - 2] + fibonacci[i - 1]) % 1234567);
   }
 
-  return nTarget;
+  return fibonacci[n];
 }
