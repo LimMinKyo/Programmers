@@ -394,6 +394,7 @@
 | 52 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [풀이](./Level%202/튜플) |  |
 | 53 | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [풀이](./Level%202/[3차]%20파일명%20정렬) | [메모](https://velog.io/@sem/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-LEVEL2-%ED%8C%8C%EC%9D%BC%EB%AA%85-%EC%A0%95%EB%A0%AC-Python) |
 | 54 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | [풀이](./Level%202/롤케이크%20자르기) |  |
+| 55 | [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [풀이](./Level%202/2%20x%20n%20타일링) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
