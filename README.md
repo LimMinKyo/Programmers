@@ -418,6 +418,7 @@
 | 16 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [풀이](./Level%203/합승%20택시%20요금) | [메모](./Level%203/합승%20택시%20요금/memo.md) |
 | 17 | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) | [풀이](./Level%203/외벽%20점검) |  |
 | 18 | [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) | [풀이](./Level%203/사라지는%20발판) |  |
+| 19 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | [풀이](./Level%203/정수%20삼각형) |  |
 
 ### Level 4
 | no | 문제 | 풀이 | 메모 |
