@@ -338,6 +338,7 @@
 | 81 | [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) | [풀이](./Level%201/공원%20산책) |  |
 | 82 | [[PCCP 기출문제] 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | [풀이](./Level%201/붕대%20감기) |  |
 | 83 | [[PCCE 기출문제] 10번 / 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198) | [풀이](./Level%201/공원) |  |
+| 84 | [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | [풀이](./Level%201/동영상%20재생기) |  |
 
 ### Level 2
 | no | 문제 | 풀이 | 메모 |
