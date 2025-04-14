@@ -29,4 +29,4 @@ def solution(friends, gifts):
                 elif B_to_A_gift > A_to_B_gift:
                     next_month_receive_map[B] += 1
 
-    return sorted(next_month_receive_map.values(), reverse=True)[0]
+    return max(next_month_receive_map.values())
