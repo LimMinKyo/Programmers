@@ -401,6 +401,7 @@
 | 54 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | [풀이](./Level%202/롤케이크%20자르기) |  |
 | 55 | [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [풀이](./Level%202/2%20x%20n%20타일링) |  |
 | 56 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [풀이](./Level%202/땅따먹기) |  |
+| 57 | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | [풀이](./Level%202/가장%20큰%20정사각형%20찾기) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
