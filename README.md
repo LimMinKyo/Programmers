@@ -432,6 +432,7 @@
 | 01 | [트리 트리오 중간값](https://school.programmers.co.kr/learn/courses/30/lessons/68937) | [풀이](./Level%204/트리%20트리오%20중간값) | [메모](https://jiyeoon.github.io/2021/01/07/tritrio/) |
 | 02 | [지형 이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050) | [풀이](./Level%204/지형%20이동) |  |
 | 03 | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | [풀이](./Level%204/도둑질) |  |
+| 04 | [단어 퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983) | [풀이](./Level%204/단어%20퍼즐) |  |
 
 ### Level 5
 | no | 문제 | 풀이 | 메모 |
