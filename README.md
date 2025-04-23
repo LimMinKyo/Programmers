@@ -403,6 +403,7 @@
 | 56 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [풀이](./Level%202/땅따먹기) |  |
 | 57 | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | [풀이](./Level%202/가장%20큰%20정사각형%20찾기) |  |
 | 58 | [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [풀이](./Level%202/[3차]%20n진수%20게임) |  |
+| 59 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [풀이](./Level%202/택배상자) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
