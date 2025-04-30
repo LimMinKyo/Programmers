@@ -406,6 +406,7 @@
 | 59 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [풀이](./Level%202/택배상자) |  |
 | 60 | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [풀이](./Level%202/스킬트리) |  |
 | 61 | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [풀이](./Level%202/주차%20요금%20계산) |  |
+| 62 | [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [풀이](./Level%202/[1차]%20프렌즈4블록) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
