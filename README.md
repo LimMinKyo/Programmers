@@ -409,6 +409,7 @@
 | 62 | [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [풀이](./Level%202/[1차]%20프렌즈4블록) |  |
 | 63 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [풀이](./Level%202/2개%20이하로%20다른%20비트) | [메모](./Level%202/2개%20이하로%20다른%20비트/README.md) |
 | 64 | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | [풀이](./Level%202/쿼드압축%20후%20개수%20세기) |  |
+| 65 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [풀이](./Level%202/두%20큐%20합%20같게%20만들기) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
