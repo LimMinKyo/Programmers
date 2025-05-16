@@ -22,8 +22,8 @@ def solution(n):
             else:
                 x -= 1
                 y -= 1
-                direction = "up"
-        elif direction == "up":
+                direction = "up_left"
+        elif direction == "up_left":
             if x - 1 >= 0 and y - 1 >= 0 and pyramid[y - 1][x - 1] == 0:
                 x -= 1
                 y -= 1
