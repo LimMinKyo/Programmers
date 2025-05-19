@@ -411,6 +411,7 @@
 | 64 | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | [풀이](./Level%202/쿼드압축%20후%20개수%20세기) |  |
 | 65 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [풀이](./Level%202/두%20큐%20합%20같게%20만들기) |  |
 | 66 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [풀이](./Level%202/삼각%20달팽이) |  |
+| 67 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [풀이](./Level%202/연속된%20부분%20수열의%20합) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
