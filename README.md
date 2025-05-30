@@ -414,6 +414,7 @@
 | 67 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [풀이](./Level%202/연속된%20부분%20수열의%20합) |  |
 | 68 | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | [풀이](./Level%202/마법의%20엘리베이터) |  |
 | 69 | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | [풀이](./Level%202/시소%20짝꿍) |  |
+| 70 | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [풀이](./Level%202/호텔%20대실) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
