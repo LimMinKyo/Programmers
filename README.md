@@ -415,6 +415,7 @@
 | 68 | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | [풀이](./Level%202/마법의%20엘리베이터) |  |
 | 69 | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | [풀이](./Level%202/시소%20짝꿍) |  |
 | 70 | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [풀이](./Level%202/호텔%20대실) |  |
+| 71 | [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | [풀이](./Level%202/서버%20증설%20횟수) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
