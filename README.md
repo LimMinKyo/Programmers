@@ -417,6 +417,7 @@
 | 70 | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [풀이](./Level%202/호텔%20대실) |  |
 | 71 | [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | [풀이](./Level%202/서버%20증설%20횟수) |  |
 | 72 | [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | [풀이](./Level%202/숫자%20카드%20나누기) |  |
+| 73 | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) | [풀이](./Level%202/124%20나라의%20숫자) |  |
 
 ### Level 3
 | no | 문제 | 풀이 | 메모 |
