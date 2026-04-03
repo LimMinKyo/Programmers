@@ -1,15 +1,13 @@
 function solution(brackets) {
-  brackets = brackets.split("");
-
-  const stack = [];
-
   if (brackets[0] === ")") {
     return false;
   }
 
-  for (let i = 0; i < brackets.length; i++) {
-    if (brackets[i] === "(") {
-      stack.push(brackets[i]);
+  const stack = [];
+
+  for (const bracket of brackets.split("")) {
+    if (bracket === "(") {
+      stack.push(bracket);
     } else {
       if (stack.length > 0) {
         stack.pop();
@@ -19,9 +17,5 @@ function solution(brackets) {
     }
   }
 
-  if (stack.length > 0) {
-    return false;
-  } else {
-    return true;
-  }
+  return stack.length > 0 ? false : true;
 }
